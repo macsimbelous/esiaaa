@@ -278,7 +278,7 @@ form_european_union_category = {
 			if = {
 				limit = {
 					NOT = {
-						original_tag = HDN
+						original_tag = G01
 					}
 				}
 				set_cosmetic_tag = EUR_UNIFIED

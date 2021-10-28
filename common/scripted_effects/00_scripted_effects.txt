@@ -337,7 +337,7 @@ civil_war_anti_exploiter_punitive_action = {
 		division_template = {
 			name = "Anti-Exploit Punitive Brigade"
 			priority = 1
-			division_names_group = EST_PAR_01
+			#division_names_group = HDN_INF_01
 			is_locked = yes
 			regiments = {
 				infantry = { x = 0 y = 0 }

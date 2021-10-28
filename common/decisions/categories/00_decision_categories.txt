@@ -55,12 +55,7 @@ fascism_on_the_rise = {
 	icon = generic_fascism
 
 	allowed = {
-		NOT = {
-			AND = {
-				has_dlc = "Man the Guns"
-
-			}
-		}
+		always = yes
 	}
 	
 	#visible = {
@@ -86,12 +81,7 @@ communism_on_the_rise = {
 	icon = generic_communism
 
 	allowed = {
-		NOT = {
-			AND = {
-				has_dlc = "Man the Guns"
-
-			}
-		}
+		always = yes
 	}
 	
 	#visible = {

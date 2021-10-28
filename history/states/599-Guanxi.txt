@@ -1,4 +1,4 @@
-﻿state= {
+state= {
 	id=599
 	name="STATE_599"
 	manpower = 8685200
@@ -24,7 +24,14 @@ add_core_of = F99
 			10404 3 
 		}
 
-
+		1938.10.25 = {
+			if = {
+				limit = {
+					NOT = { has_dlc = "Waking the Tiger" }
+				}
+				CHI = { transfer_state = PREV }
+			}
+		}
 
 	}
 	provinces={

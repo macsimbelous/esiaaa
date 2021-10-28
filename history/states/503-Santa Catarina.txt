@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=503
 	name="STATE_503"

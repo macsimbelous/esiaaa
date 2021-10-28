@@ -1,4 +1,4 @@
-﻿state={
+state={
 	id=755
 	name="STATE_755"
 	provinces={
@@ -17,7 +17,22 @@ add_core_of = H55
 			industrial_complex = 1
 
 		}
+		1938.10.25 = {
+			if = {
+				limit = {
+					NOT = {
+						has_dlc = "Waking the Tiger"
+					}
 
+				}
+				CHI = {
+					transfer_state = PREV
+
+				}
+
+			}
+
+		}
 
 	}
 }

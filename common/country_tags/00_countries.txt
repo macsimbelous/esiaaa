@@ -1,4 +1,4 @@
-﻿A01 = "countries/A01.txt"
+A01 = "countries/A01.txt"
 A02 = "countries/A02.txt"
 A03 = "countries/A03.txt"
 A04 = "countries/A04.txt"

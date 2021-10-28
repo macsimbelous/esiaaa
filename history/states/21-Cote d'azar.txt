@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=21
 	name="STATE_21" # Provence

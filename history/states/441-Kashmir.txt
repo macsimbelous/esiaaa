@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=441
 	name="STATE_441"
@@ -12,7 +12,7 @@ owner = E41
 			infrastructure = 2
 		}
 add_core_of = E41
-		
+		add_claim_by = PAK
 	}
 
 	provinces={

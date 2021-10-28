@@ -1,4 +1,4 @@
-﻿state={
+state={
 	id=805
 	name="STATE_805"
 	provinces={
@@ -21,6 +21,13 @@ owner = I05
 			infrastructure = 2
 		}
 add_core_of = I05
+		add_claim_by = GRE
+		add_claim_by = ITA
 
+		1939.4.12 = {
+owner = I05
+			controller = ITA
+			remove_claim_by = ITA
+		}
 	}
 }

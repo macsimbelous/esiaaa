@@ -1,4 +1,4 @@
-﻿state={
+state={
 	id=75
 	name="STATE_75"
 	manpower = 2598400
@@ -25,7 +25,10 @@ owner = A75
 		}
 add_core_of = A75
 
-
+		1939.3.14 = {
+owner = A75
+			controller = GER
+		}
 	}
 
 	provinces={

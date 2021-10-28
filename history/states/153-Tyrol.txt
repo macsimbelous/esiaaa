@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=153
 	name="STATE_153"
@@ -18,7 +18,11 @@ owner = B53
 		}
 add_core_of = B53
 
-
+		1938.3.12 = {
+owner = B53
+			controller = GER
+add_core_of = B53
+		}
 	}
 
 	provinces={

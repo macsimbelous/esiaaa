@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=613
 	name="STATE_613" # Shanghai
@@ -31,7 +31,9 @@ add_core_of = G13
 			10076 3
 		}
 
-
+		1938.10.25 = {
+			controller = JAP
+		}
 	}
 
 	provinces={

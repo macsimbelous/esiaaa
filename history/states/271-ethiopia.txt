@@ -1,4 +1,4 @@
-﻿state=
+state=
 {
 	id=271
 	name="STATE_271"
@@ -29,7 +29,10 @@ owner = C71
 		}
 add_core_of = C71
 
-
+		1936.6.1 = {
+owner = C71
+			controller = ITA
+		}
 	}
 
 	provinces=

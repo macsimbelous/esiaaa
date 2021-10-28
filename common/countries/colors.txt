@@ -1,4 +1,4 @@
-﻿A01 = {
+A01 = {
 color = rgb { 0  81  79 }
 color_ui = rgb { 0  81  79 }
 }

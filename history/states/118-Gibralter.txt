@@ -1,4 +1,4 @@
-﻿state=
+state=
 {
 	id=118
 	name="STATE_118"
@@ -16,7 +16,7 @@ owner = B18
 				coastal_bunker = 2
 			}
 		}
-	
+		add_claim_by = SPR
 	}
 	provinces={
 		4135

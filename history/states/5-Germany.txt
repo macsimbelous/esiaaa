@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=5
 	name="STATE_5"
@@ -13,7 +13,7 @@ state={
 		#	11386 1
 		#}
 owner = A05
-		
+		controller = GER
 		
 		buildings = {
 			infrastructure = 6

@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=803
 	name="STATE_803"
@@ -14,7 +14,7 @@ owner = I03
 		}
 add_core_of = I03
 add_core_of = I03
-		
+		add_claim_by = BUL
 
 	}
 

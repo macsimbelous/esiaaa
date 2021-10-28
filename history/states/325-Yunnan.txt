@@ -1,4 +1,4 @@
-﻿state={
+state={
 	id=325
 	name="STATE_325"
 	resources={
@@ -19,7 +19,22 @@ add_core_of = D25
 			industrial_complex = 3
 
 		}
+		1938.10.25 = {
+			if = {
+				limit = {
+					NOT = {
+						has_dlc = "Waking the Tiger" 
+					}
 
+				}
+				CHI = {
+					transfer_state = PREV
+
+				}
+
+			}
+
+		}
 
 	}
 

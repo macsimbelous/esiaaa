@@ -1,4 +1,4 @@
-﻿state={
+state={
 	id=800
 	name="STATE_800" #Van
 

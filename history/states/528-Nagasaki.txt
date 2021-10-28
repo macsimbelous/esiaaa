@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=528
 	name="STATE_528" # Kyushu

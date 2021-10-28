@@ -1,4 +1,4 @@
-﻿state={
+state={
 	id=754
 	name="STATE_754"
 	provinces={
@@ -21,6 +21,19 @@ add_core_of = H54
 			arms_factory = 1
 
 		}
+		1938.10.25 = {
+			if = {
+				limit = {
+					NOT = {
+						has_dlc = "Waking the Tiger" 
+					}
 
+				}
+				CHI = {
+					transfer_state = PREV
+
+				}
+			}
+		}
 	}
 }

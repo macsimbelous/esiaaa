@@ -1,4 +1,4 @@
-﻿state=
+state=
 {
 	id=743
 	name="STATE_743"
@@ -25,6 +25,9 @@ add_core_of = H43
 			}
 		}
 
+		1938.10.25 = {
+			controller = JAP
+		}
 	}
 	provinces={
 		10000

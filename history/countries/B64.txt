@@ -1,4 +1,4 @@
-﻿capital = 164
+capital = 164
 set_technology = {
 	infantry_weapons = 1
 }

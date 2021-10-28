@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=565
 	name="STATE_565" # Bodaybo

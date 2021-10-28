@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=569
 	name="STATE_569" # Kemerovo

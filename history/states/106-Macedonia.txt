@@ -1,4 +1,4 @@
-﻿state={
+state={
 	id=106
 	name="STATE_106"
 	resources={
@@ -19,7 +19,7 @@ owner = B06
 		}
 add_core_of = B06
 add_core_of = B06
-		
+		add_claim_by = BUL
 	}
 
 	provinces={

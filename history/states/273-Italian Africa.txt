@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=273
 	name="STATE_273" # Libyan Desert

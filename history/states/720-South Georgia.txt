@@ -1,4 +1,4 @@
-﻿state={
+state={
 	id=720
 	name="STATE_720"
 	manpower=30	
@@ -13,7 +13,7 @@ owner = H20
 				naval_base = 1
 			}
 		}
-		
+		add_claim_by = ARG
 	}
 	
 	provinces={

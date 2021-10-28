@@ -1,4 +1,4 @@
-﻿state={
+state={
 	id=756
 	name="STATE_756"
 	provinces={
@@ -16,7 +16,22 @@ add_core_of = H56
 			infrastructure = 1
 
 		}
+		1938.10.25 = {
+			if = {
+				limit = {
+					NOT = {
+						has_dlc = "Waking the Tiger" 
+					}
 
+				}
+				CHI = {
+					transfer_state = PREV
+
+				}
+
+			}
+
+		}
 
 	}
 }

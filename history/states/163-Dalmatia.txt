@@ -1,4 +1,4 @@
-﻿state=
+state=
 {
 	id=163
 	name="STATE_163"
@@ -16,7 +16,7 @@ owner = B63
 		}
 add_core_of = B63
 add_core_of = B63
-		
+		start_resistance = CRO #Yugoslavia shouldn't resist occupation
 	} 
 	provinces={	
 		3943 

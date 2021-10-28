@@ -1,4 +1,4 @@
-﻿state={
+state={
 	id=591
 	name="STATE_591"
 	manpower = 4350000
@@ -23,7 +23,16 @@ add_core_of = F91
 
 		}
 
-
+		1938.10.25 = {
+			if = {
+				limit = {
+					NOT = { has_dlc = "Waking the Tiger" }
+				}
+				remove_core_of = GXC
+				CHI = { transfer_state = PREV }
+			}
+			controller = JAP
+		}
 	}
 
 	provinces={

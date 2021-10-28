@@ -1,4 +1,4 @@
-﻿state= {
+state= {
 	id=299
 	name="STATE_299"
 	manpower=2463
@@ -13,7 +13,7 @@ owner = C99
 				naval_base = 1
 			}
 		}
-	
+		add_claim_by = ARG
 	}
 	provinces= { 12960 }
 }

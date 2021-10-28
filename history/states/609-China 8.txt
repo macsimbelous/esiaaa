@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=609
 	name="STATE_609" # East Hebei

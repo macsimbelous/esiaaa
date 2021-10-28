@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=764
 	name="STATE_764"
@@ -7,7 +7,7 @@ state={
 
 	history={
 owner = H64
-		
+		controller = YUG
 		victory_points = {
 			3614 1
 		}

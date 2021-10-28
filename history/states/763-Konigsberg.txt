@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=763
 	name="STATE_763"
@@ -7,7 +7,7 @@ state={
 
 	history={
 owner = H63
-	
+		controller = GER
 		
 		victory_points = {
 			6332 10 

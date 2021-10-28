@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=580
 	name="STATE_580" # Tobolsk

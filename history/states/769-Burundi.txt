@@ -1,4 +1,4 @@
-﻿state={
+state={
 	id=769
 	name="STATE_769" # Burundi
 	

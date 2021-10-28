@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=731
 	name="STATE_731"
@@ -19,7 +19,7 @@ owner = H31
 
 		}
 add_core_of = H31
-	
+		add_claim_by = BUL
 
 	}
 

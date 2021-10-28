@@ -34,7 +34,7 @@ owner = C91
 			}
 		}
 add_core_of = C91
-		add_claim_by = KUR
+		
 	}
 
 	provinces={

@@ -29,10 +29,7 @@ owner = C71
 		}
 add_core_of = C71
 
-		1936.6.1 = {
-owner = C71
-			controller = ITA
-		}
+
 	}
 
 	provinces=

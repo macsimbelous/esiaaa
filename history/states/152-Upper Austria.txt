@@ -34,11 +34,7 @@ owner = B52
 		#}
 add_core_of = B52
 
-		1938.3.12 = {
-owner = B52
-			controller = GER
-add_core_of = B52
-		}
+
 	}
 
 	provinces={

@@ -25,16 +25,7 @@ owner = A04
 		}
 add_core_of = A04
 
-		1938.3.12 = {
-owner = A04
-			controller = GER
-add_core_of = A04
-		}
-		1939.1.1 = {
-			buildings = {
-				anti_air_building = 5
-			}
-		}
+
 	}
 
 	provinces={

@@ -14,9 +14,7 @@ add_core_of = F98
 
 		}
 
-		1938.10.25 = {
-			controller = JAP
-		}
+
 	}
 
 	provinces={

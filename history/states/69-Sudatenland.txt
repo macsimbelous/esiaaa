@@ -57,10 +57,7 @@ owner = A69
 		}
 add_core_of = A69
 
-		1938.9.30 = {
-owner = A69
-			controller = GER
-		}
+
 	}
 	provinces=
 	{

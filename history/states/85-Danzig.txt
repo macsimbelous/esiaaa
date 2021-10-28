@@ -26,9 +26,7 @@ owner = A85
 			}
 		}
 add_core_of = A85
-		1938.3.12 = {
-			add_claim_by = GER
-		}
+
 	}
 
 	provinces={

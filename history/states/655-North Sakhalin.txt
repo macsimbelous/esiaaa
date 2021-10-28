@@ -8,7 +8,7 @@ state={
 	history={
 owner = G55
 add_core_of = G55
-		add_claim_by = JAP
+	
 		buildings = {
 			infrastructure = 3
 			air_base = 1

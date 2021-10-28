@@ -14,9 +14,7 @@ add_core_of = G14
 			infrastructure = 4
 		}
 
-		1938.10.25 = {
-			controller = JAP
-		}
+
 	}
 
 	provinces={

@@ -1272,9 +1272,9 @@ naval_submarine = {
 		modifier = {
 			factor = 10
 			OR = {
-				has_war_with = FEF
-				has_war_with = MAT
-				has_war_with = ARP
+				has_war_with = A01
+				has_war_with = A02
+				has_war_with = A03
 			}
 
 		}

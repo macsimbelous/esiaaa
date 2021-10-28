@@ -25,9 +25,7 @@ add_core_of = G08
 			10068 1 
 		}
 
-		1938.10.25 = {
-			controller = JAP
-		}
+
 	}
 
 	provinces={

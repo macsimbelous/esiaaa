@@ -19,9 +19,6 @@ add_core_of = H99
 			infrastructure = 2
 		}
 
-		1938.9.30 = {
-owner = H99
-			controller = TUR
-		}
+
 	}
 }

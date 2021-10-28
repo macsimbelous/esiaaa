@@ -18,16 +18,7 @@ add_core_of = H46
 			infrastructure = 2
 		}
 
-		1938.10.25 = {
-			controller = JAP
-		}
-		
-		1939.1.1 = {
-			
-owner = H46
-			controller = MEN
 
-		}
 	}
 	manpower=500000
 	buildings_max_level_factor=1.000

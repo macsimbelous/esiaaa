@@ -15,16 +15,16 @@ country_event = {
 	desc = {
 		text = ace_promoted.1.d
 		trigger = {
-			NOT = { tag = MMY }
-			NOT = { tag = HDN }
+			NOT = { tag = A01 }
+			NOT = { tag = A02 }
 		}
 	}
 	desc = {
 		text = ace_promoted.1.d_major
 		trigger = {
 			OR = {
-				tag = MMY
-				tag = HDN
+				tag = A01
+				tag = A02
 			}
 		}
 	}
@@ -44,16 +44,16 @@ country_event = {
 	desc = {
 		text = ace_promoted.1.d
 		trigger = {
-			NOT = { tag = MMY }
-			NOT = { tag = HDN }
+			NOT = { tag = A01 }
+			NOT = { tag = A02 }
 		}
 	}
 	desc = {
 		text = ace_promoted.1.d_major
 		trigger = {
 			OR = {
-				tag = MMY
-				tag = HDN
+				tag = A01
+				tag = A02
 			}
 		}
 	}
@@ -74,16 +74,16 @@ country_event = {
 	desc = {
 		text = ace_died.1.d
 		trigger = {
-			NOT = { tag = MMY }
-			NOT = { tag = HDN }
+			NOT = { tag = A01 }
+			NOT = { tag = A02 }
 		}
 	}
 	desc = {
 		text = ace_died.1.d_major
 		trigger = {
 			OR = {
-				tag = MMY 
-				tag = HDN 
+				tag = A01 
+				tag = A02 
 			} 
 		}
 	}
@@ -110,8 +110,8 @@ country_event = {
 					PREV = { 
 						OWNER = {
 							OR = {
-								tag = MMY 
-								tag = HDN 
+								tag = A01 
+								tag = A02 
 							} 
 						} 
 					}
@@ -120,8 +120,8 @@ country_event = {
 					FROM = { 
 						OWNER = {
 							OR = {
-								tag = MMY 
-								tag = HDN 
+								tag = A01 
+								tag = A02 
 							} 
 						}
 					}
@@ -136,16 +136,16 @@ country_event = {
 			PREV = { 
 				OWNER = {
 					OR = {
-						tag = MMY 
-						tag = HDN 
+						tag = A01 
+						tag = A02 
 					} 
 				}
 			}
 			FROM = { 
 				OWNER = {
 					OR = {
-						tag = MMY 
-						tag = HDN 
+						tag = A01 
+						tag = A02 
 					} 
 				}
 			}
@@ -174,8 +174,8 @@ country_event = {
 					PREV = { 
 						OWNER = {
 							OR = {
-								tag = MMY 
-								tag = HDN 
+								tag = A01 
+								tag = A02 
 							} 
 						} 
 					}
@@ -184,8 +184,8 @@ country_event = {
 					FROM = { 
 						OWNER = {
 							OR = {
-								tag = MMY 
-								tag = HDN 
+								tag = A01 
+								tag = A02 
 							} 
 						}
 					}
@@ -200,16 +200,16 @@ country_event = {
 			PREV = { 
 				OWNER = {
 					OR = {
-						tag = MMY 
-						tag = HDN 
+						tag = A01 
+						tag = A02 
 					} 
 				}
 			}
 			FROM = { 
 				OWNER = {
 					OR = {
-						tag = MMY 
-						tag = HDN 
+						tag = A01 
+						tag = A02 
 					} 
 				}
 			}
@@ -238,8 +238,8 @@ country_event = {
 					PREV = { 
 						OWNER = {
 							OR = {
-								tag = MMY 
-								tag = HDN 
+								tag = A01 
+								tag = A02 
 							} 
 						} 
 					}
@@ -248,8 +248,8 @@ country_event = {
 					FROM = { 
 						OWNER = {
 							OR = {
-								tag = MMY 
-								tag = HDN
+								tag = A01 
+								tag = A02
 							} 
 						}
 					} 
@@ -264,16 +264,16 @@ country_event = {
 			PREV = { 
 				OWNER = {
 					OR = {
-						tag = MMY 
-						tag = HDN 
+						tag = A01 
+						tag = A02 
 					} 
 				}
 			}
 			FROM = { 
 				OWNER = {
 					OR = {
-						tag = MMY 
-						tag = HDN 
+						tag = A01 
+						tag = A02 
 					} 
 				}
 			}

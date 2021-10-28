@@ -19,10 +19,7 @@ owner = A74
 		}
 add_core_of = A74
 
-		1938.9.30 = {
-owner = A74
-			controller = GER
-		}
+
 	}
 	provinces= {
 		421 3414 3583 6485

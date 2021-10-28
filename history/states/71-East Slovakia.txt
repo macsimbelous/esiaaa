@@ -16,11 +16,7 @@ owner = A71
 		}
 add_core_of = A71
 
-		1939.3.14 = {
-owner = A71
-			controller = SLO
-add_core_of = A71
-		}
+
 	}
 
 	provinces={

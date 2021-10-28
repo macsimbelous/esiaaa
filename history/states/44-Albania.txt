@@ -28,13 +28,7 @@ owner = A44
 			}
 		}
 add_core_of = A44
-		add_claim_by = ITA
 
-		1939.4.12 = {
-owner = A44
-			controller = ITA
-			remove_claim_by = ITA
-		}
 	}
 
 	provinces={

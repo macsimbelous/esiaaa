@@ -28,9 +28,7 @@ owner = A86
 			air_base = 3
 		}
 add_core_of = A86
-		1938.3.12 = {
-			add_claim_by = GER
-		}
+
 	}
 
 	provinces={

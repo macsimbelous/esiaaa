@@ -14,15 +14,7 @@ owner = A73
 			infrastructure = 5
 		}
 add_core_of = A73
-		add_claim_by = HUN
 
-		1939.3.14 = {
-owner = A73
-			controller = HUN
-			remove_claim_by = HUN
-add_core_of = A73
-add_core_of = A73
-		}
 	}
 
 	provinces={

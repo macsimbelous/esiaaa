@@ -1,9 +1,9 @@
 armor_generic = {
 
-	blocked_for = {
-		HDN
+	# blocked_for = {
 		
-	}
+		
+	# }
 
 	roles = {
 		armor

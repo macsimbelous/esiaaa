@@ -1,0 +1,38 @@
+wfc_world_conquest_category = {
+	priority = 8
+	icon = decision_generic_ignite_civil_war
+	#visible_when_empty = yes
+
+
+}
+
+wfc_integration_category = {
+	priority = 5
+	icon = decision_category_generic_propaganda
+	#picture = GFX_decision_cat_picture_spr_the_inevitable_civil_war
+
+}
+
+wfl_immigration_category = {
+	priority = 4
+	#icon = generic_economy
+	picture = GFX_wfl_immigration_category
+
+	visible = {
+		has_government = democratic
+	}
+}
+
+wfl_campaigning_for_volunteers_category = {
+	priority = 4
+	icon = decision_category_generic_propaganda
+
+	visible = {
+		has_manpower < 100000
+	}
+}
+
+
+
+
+

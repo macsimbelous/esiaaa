@@ -1,0 +1,491 @@
+wfc_world_conquest_category = {
+	wfc_world_conquest_decision = {
+		#war_with_target_on_complete = yes
+		war_with_target_on_remove = yes
+		available = {
+			#has_war = no
+			FROM = {
+				OR = {
+					is_neighbor_of = ROOT
+					any_neighbor_country = {
+						is_puppet_of = ROOT
+					}
+				}
+				NOT = {
+					OR = {
+						is_in_faction_with = ROOT
+						is_puppet_of = ROOT
+					}
+				}
+			}
+		}
+		visible = {
+			FROM = {
+				OR = {
+					any_neighbor_country = {
+						is_puppet_of = ROOT
+					}
+					is_neighbor_of = ROOT
+				}
+				NOT = {
+					OR = {
+						is_in_faction_with = ROOT
+						is_puppet_of = ROOT
+						has_war_with = ROOT
+					}
+				}
+			}
+		}
+		#target_array = neighbors
+		target_trigger = {
+			FROM = {
+				OR = {
+					any_neighbor_country = {
+						is_puppet_of = ROOT
+					}
+					is_neighbor_of = ROOT
+				}
+				NOT = {
+					OR = {
+						is_in_faction_with = ROOT
+						is_puppet_of = ROOT
+						has_war_with = ROOT
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			base = 0
+			modifier = {
+				if = {
+					limit = {
+						has_government = fascism
+					}
+					FROM = {
+						has_government = fascism
+					}
+				}
+				add = -3
+			}
+			modifier = {
+				if = {
+					limit = {
+						has_government = fascism
+					}
+					FROM = {
+						has_government = communism
+					}
+				}
+				add = 2
+			}
+			modifier = {
+				if = {
+					limit = {
+						has_government = fascism
+					}
+					FROM = {
+						has_government = democratic
+					}
+				}
+				add = 2
+			}
+			modifier = {
+				if = {
+					limit = {
+						has_government = fascism
+					}
+					FROM = {
+						has_government = neutrality
+					}
+				}
+				add = 1
+			}
+			modifier = {
+				if = {
+					limit = {
+						has_government = communism
+					}
+					FROM = {
+						has_government = fascism
+					}
+				}
+				add = 2
+			}
+			modifier = {
+				if = {
+					limit = {
+						has_government = communism
+					}
+					FROM = {
+						has_government = democratic
+					}
+				}
+				add = 1
+			}
+			modifier = {
+				if = {
+					limit = {
+						has_government = communism
+					}
+					FROM = {
+						has_government = neutrality
+					}
+				}
+				add = 1
+			}
+			modifier = {
+				if = {
+					limit = {
+						has_government = communism
+					}
+					FROM = {
+						has_government = communism
+					}
+				}
+				add = -3
+			}
+			modifier = {
+				if = {
+					limit = {
+						has_government = democratic
+					}
+					FROM = {
+						has_government = communism
+					}
+				}
+				add = 2
+			}
+			modifier = {
+				if = {
+					limit = {
+						has_government = democratic
+					}
+					FROM = {
+						has_government = fascism
+					}
+				}
+				add = 1
+			}
+			modifier = {
+				if = {
+					limit = {
+						has_government = democratic
+					}
+					FROM = {
+						has_government = neutrality
+					}
+				}
+				add = 1
+			}
+			modifier = {
+				if = {
+					limit = {
+						has_government = democratic
+					}
+					FROM = {
+						has_government = democratic
+					}
+				}
+				add = -3
+			}
+			modifier = {
+				has_government = neutrality
+				add = -5
+			}
+			modifier = {
+				has_war = yes
+				add = -1
+			}
+			modifier = {
+				strength_ratio = {
+					tag = FROM
+					ratio > 1.5
+				}
+				add = 1
+			}
+			modifier = {
+				strength_ratio = {
+					tag = FROM
+					ratio > 2
+				}
+				add = 1
+			}
+			modifier = {
+				is_in_faction = yes
+				add = 1
+			}
+			modifier = {
+				FROM = {
+					OR = {
+						is_in_faction = yes
+						is_puppet = yes
+					}
+				}
+				add = -1
+			}
+			# modifier = {
+			# 	FROM = {
+			# 		OVERLORD = {
+			# 			is_major = yes
+			# 		}
+			# 	}
+			# 	add = -1
+			# }
+		}
+		fire_only_once = no
+		cost = 100
+		#days_re_enable = 30
+		days_remove = 30
+		remove_effect = {
+			# FROM = {
+			# 	every_owned_state = {
+			# 		add_claim_by = ROOT
+			# 	}
+			# }
+			FROM = {
+				every_owned_state = {
+					limit = {
+						any_neighbor_state = {
+							is_owned_by = ROOT
+						}
+					}
+					add_claim_by = ROOT
+				}
+			}
+			# declare_war_on = {
+			# 	target = FROM
+			# 	type = annex_everything
+			# }
+			if = {
+				limit = {
+					has_government = fascism
+				}
+				create_wargoal = {
+					target = FROM
+					type = annex_everything
+				}
+			}
+			else = {
+				create_wargoal = {
+					target = FROM
+					type = puppet_wargoal_focus
+				}
+			}
+		}
+		complete_effect = {
+		}
+	}
+}
+
+wfc_integration_category = {
+	wfc_integration_decision = {
+		name = wfc_integration_decision.t
+		#icon = generic_nationalism
+		#icon = generic_form_nation
+		icon = GFX_decision_generic_brainwash
+		available = {
+			FROM = {
+				compliance > 50
+				resistance < 5
+			}
+		}
+		visible = {
+			FROM = {
+				#is_owned_by = ROOT
+				NOT = {
+					is_core_of = ROOT
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 100
+		}
+		state_target = yes
+		on_map_mode = map_and_decisions_view
+		#target_array = owned_controlled_states
+		target_array = owned_states
+		target_trigger = {
+			FROM = {
+				NOT = {
+					is_core_of = ROOT
+				}
+			}
+		}
+		cost = 100
+		fire_only_once = yes
+		days_remove = 30
+		modifier = {
+			stability_factor = -0.05
+			political_power_gain = -0.1
+		}
+		cancel_trigger = {
+			FROM = {
+				is_core_of = ROOT
+			}
+		}
+		remove_effect = {
+			FROM = {
+				#add_core_of = ROOT
+				wfc_coring_state = yes
+			}
+		}
+		cancel_effect = {
+			add_political_power = 50
+		}
+	}
+}
+
+wfl_immigration_category = {
+	wfl_immigration_decision = {
+		name = wfl_immigration_decision.t
+		icon = decision_category_generic_propaganda
+		allowed = {
+			always = yes
+		}
+		available = {
+			has_war = no
+		}
+		ai_will_do = {
+			base = 0
+			modifier = {
+				has_political_power > 1500
+				add = 1
+			}
+		}
+		fire_only_once = no
+		cost = 200
+		days_re_enable = 60
+		days_remove = 30
+		modifier = {
+			monthly_population = 0.2
+			stability_factor = -0.05
+		}
+		remove_effect = {
+			every_owned_state = {
+				add_manpower = 10000
+			}
+			#add_stability = -0.01
+		}
+	}
+}
+
+wfl_campaigning_for_volunteers_category = {
+	wfl_campaigning_for_volunteers_decision = {
+		name = wfl_campaigning_for_volunteers_decision.t
+		icon = decision_category_generic_propaganda
+		fire_only_once = no
+		cost = 50
+		days_re_enable = 30
+		available = {
+			OR = {
+				has_idea = service_by_requirement
+				has_idea = all_adults_serve
+				has_idea = scraping_the_barrel
+			}
+		}
+		ai_will_do = {
+			base = 0
+			modifier = {
+				has_manpower < 100000
+				add = 1
+			}
+			modifier = {
+				has_manpower < 10000
+				add = 5
+			}
+			modifier = {
+				has_war = no
+				add = -6
+			}
+		}
+		complete_effect = {
+			set_temp_variable = {
+				temp_mp = mtth:wfc_volunteers_base
+			}
+			multiply_temp_variable = {
+				temp_mp = num_owned_states
+			}
+			add_manpower = temp_mp
+		}
+	}
+}
+
+
+
+economy_decisions = {
+	wfl_urbanisation_decision = {
+		icon = generic_construction
+
+		cost = 150
+		fire_only_once = no
+		days_re_enable = 30
+		available = {
+			any_owned_state = {
+				NOT = {
+					OR = {
+						has_state_category = small_island
+						has_state_category = megalopolis
+					}
+				}
+				is_fully_controlled_by = ROOT
+				free_building_slots = {
+					building = infrastructure
+					size < 1
+				}
+			}
+		}
+		visible = {
+			any_owned_state = {
+				NOT = {
+					OR = {
+						has_state_category = small_island
+						has_state_category = megalopolis
+					}
+				}
+				is_fully_controlled_by = ROOT
+				free_building_slots = {
+					building = infrastructure
+					size < 1
+				}
+			}
+		}
+		complete_effect = {
+			random_owned_state = {
+				limit = {
+					NOT = {
+						OR = {
+							has_state_category = small_island
+							has_state_category = megalopolis
+						}
+					}
+					is_fully_controlled_by = ROOT
+					#is_owned_by = ROOT
+					free_building_slots = {
+						building = infrastructure
+						size < 1
+					}
+					free_building_slots = {
+						building = industrial_complex
+						size > 1
+						include_locked = yes
+					}
+				}
+				urbanize_state = yes
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 10
+				any_owned_state = {
+					free_building_slots = {
+						building = industrial_complex
+						size < 1
+						include_locked = no
+					}
+				}
+			}
+		}
+	}
+}
+

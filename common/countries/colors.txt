@@ -1,0 +1,3224 @@
+﻿A01 = {
+color = rgb { 0  81  79 }
+color_ui = rgb { 0  81  79 }
+}
+A02 = {
+color = rgb { 0  162  158 }
+color_ui = rgb { 0  162  158 }
+}
+A03 = {
+color = rgb { 0  243  237 }
+color_ui = rgb { 0  243  237 }
+}
+A04 = {
+color = rgb { 1  69  60 }
+color_ui = rgb { 1  69  60 }
+}
+A05 = {
+color = rgb { 1  150  139 }
+color_ui = rgb { 1  150  139 }
+}
+A06 = {
+color = rgb { 1  231  218 }
+color_ui = rgb { 1  231  218 }
+}
+A07 = {
+color = rgb { 2  57  41 }
+color_ui = rgb { 2  57  41 }
+}
+A08 = {
+color = rgb { 2  138  120 }
+color_ui = rgb { 2  138  120 }
+}
+A09 = {
+color = rgb { 2  219  199 }
+color_ui = rgb { 2  219  199 }
+}
+A10 = {
+color = rgb { 3  45  22 }
+color_ui = rgb { 3  45  22 }
+}
+A11 = {
+color = rgb { 3  126  101 }
+color_ui = rgb { 3  126  101 }
+}
+A12 = {
+color = rgb { 3  207  180 }
+color_ui = rgb { 3  207  180 }
+}
+A13 = {
+color = rgb { 4  33  3 }
+color_ui = rgb { 4  33  3 }
+}
+A14 = {
+color = rgb { 4  114  82 }
+color_ui = rgb { 4  114  82 }
+}
+A15 = {
+color = rgb { 4  195  161 }
+color_ui = rgb { 4  195  161 }
+}
+A16 = {
+color = rgb { 5  20  240 }
+color_ui = rgb { 5  20  240 }
+}
+A17 = {
+color = rgb { 5  102  63 }
+color_ui = rgb { 5  102  63 }
+}
+A18 = {
+color = rgb { 5  183  142 }
+color_ui = rgb { 5  183  142 }
+}
+A19 = {
+color = rgb { 6  8  221 }
+color_ui = rgb { 6  8  221 }
+}
+A20 = {
+color = rgb { 6  90  44 }
+color_ui = rgb { 6  90  44 }
+}
+A21 = {
+color = rgb { 6  171  123 }
+color_ui = rgb { 6  171  123 }
+}
+A22 = {
+color = rgb { 6  252  202 }
+color_ui = rgb { 6  252  202 }
+}
+A23 = {
+color = rgb { 7  78  25 }
+color_ui = rgb { 7  78  25 }
+}
+A24 = {
+color = rgb { 7  159  104 }
+color_ui = rgb { 7  159  104 }
+}
+A25 = {
+color = rgb { 7  240  183 }
+color_ui = rgb { 7  240  183 }
+}
+A26 = {
+color = rgb { 8  66  6 }
+color_ui = rgb { 8  66  6 }
+}
+A27 = {
+color = rgb { 8  147  85 }
+color_ui = rgb { 8  147  85 }
+}
+A28 = {
+color = rgb { 8  228  164 }
+color_ui = rgb { 8  228  164 }
+}
+A29 = {
+color = rgb { 9  53  243 }
+color_ui = rgb { 9  53  243 }
+}
+A30 = {
+color = rgb { 9  135  66 }
+color_ui = rgb { 9  135  66 }
+}
+A31 = {
+color = rgb { 9  216  145 }
+color_ui = rgb { 9  216  145 }
+}
+A32 = {
+color = rgb { 10  41  224 }
+color_ui = rgb { 10  41  224 }
+}
+A33 = {
+color = rgb { 10  123  47 }
+color_ui = rgb { 10  123  47 }
+}
+A34 = {
+color = rgb { 10  204  126 }
+color_ui = rgb { 10  204  126 }
+}
+A35 = {
+color = rgb { 11  29  205 }
+color_ui = rgb { 11  29  205 }
+}
+A36 = {
+color = rgb { 11  111  28 }
+color_ui = rgb { 11  111  28 }
+}
+A37 = {
+color = rgb { 11  192  107 }
+color_ui = rgb { 11  192  107 }
+}
+A38 = {
+color = rgb { 12  17  186 }
+color_ui = rgb { 12  17  186 }
+}
+A39 = {
+color = rgb { 12  99  9 }
+color_ui = rgb { 12  99  9 }
+}
+A40 = {
+color = rgb { 12  180  88 }
+color_ui = rgb { 12  180  88 }
+}
+A41 = {
+color = rgb { 13  5  167 }
+color_ui = rgb { 13  5  167 }
+}
+A42 = {
+color = rgb { 13  86  246 }
+color_ui = rgb { 13  86  246 }
+}
+A43 = {
+color = rgb { 13  168  69 }
+color_ui = rgb { 13  168  69 }
+}
+A44 = {
+color = rgb { 13  249  148 }
+color_ui = rgb { 13  249  148 }
+}
+A45 = {
+color = rgb { 14  74  227 }
+color_ui = rgb { 14  74  227 }
+}
+A46 = {
+color = rgb { 14  156  50 }
+color_ui = rgb { 14  156  50 }
+}
+A47 = {
+color = rgb { 14  237  129 }
+color_ui = rgb { 14  237  129 }
+}
+A48 = {
+color = rgb { 15  62  208 }
+color_ui = rgb { 15  62  208 }
+}
+A49 = {
+color = rgb { 15  144  31 }
+color_ui = rgb { 15  144  31 }
+}
+A50 = {
+color = rgb { 15  225  110 }
+color_ui = rgb { 15  225  110 }
+}
+A51 = {
+color = rgb { 16  50  189 }
+color_ui = rgb { 16  50  189 }
+}
+A52 = {
+color = rgb { 16  132  12 }
+color_ui = rgb { 16  132  12 }
+}
+A53 = {
+color = rgb { 16  213  91 }
+color_ui = rgb { 16  213  91 }
+}
+A54 = {
+color = rgb { 17  38  170 }
+color_ui = rgb { 17  38  170 }
+}
+A55 = {
+color = rgb { 17  119  249 }
+color_ui = rgb { 17  119  249 }
+}
+A56 = {
+color = rgb { 17  201  72 }
+color_ui = rgb { 17  201  72 }
+}
+A57 = {
+color = rgb { 18  26  151 }
+color_ui = rgb { 18  26  151 }
+}
+A58 = {
+color = rgb { 18  107  230 }
+color_ui = rgb { 18  107  230 }
+}
+A59 = {
+color = rgb { 18  189  53 }
+color_ui = rgb { 18  189  53 }
+}
+A60 = {
+color = rgb { 19  14  132 }
+color_ui = rgb { 19  14  132 }
+}
+A61 = {
+color = rgb { 19  95  211 }
+color_ui = rgb { 19  95  211 }
+}
+A62 = {
+color = rgb { 19  177  34 }
+color_ui = rgb { 19  177  34 }
+}
+A63 = {
+color = rgb { 20  2  113 }
+color_ui = rgb { 20  2  113 }
+}
+A64 = {
+color = rgb { 20  83  192 }
+color_ui = rgb { 20  83  192 }
+}
+A65 = {
+color = rgb { 20  165  15 }
+color_ui = rgb { 20  165  15 }
+}
+A66 = {
+color = rgb { 20  246  94 }
+color_ui = rgb { 20  246  94 }
+}
+A67 = {
+color = rgb { 21  71  173 }
+color_ui = rgb { 21  71  173 }
+}
+A68 = {
+color = rgb { 21  152  252 }
+color_ui = rgb { 21  152  252 }
+}
+A69 = {
+color = rgb { 21  234  75 }
+color_ui = rgb { 21  234  75 }
+}
+A70 = {
+color = rgb { 22  59  154 }
+color_ui = rgb { 22  59  154 }
+}
+A71 = {
+color = rgb { 22  140  233 }
+color_ui = rgb { 22  140  233 }
+}
+A72 = {
+color = rgb { 22  222  56 }
+color_ui = rgb { 22  222  56 }
+}
+A73 = {
+color = rgb { 23  47  135 }
+color_ui = rgb { 23  47  135 }
+}
+A74 = {
+color = rgb { 23  128  214 }
+color_ui = rgb { 23  128  214 }
+}
+A75 = {
+color = rgb { 23  210  37 }
+color_ui = rgb { 23  210  37 }
+}
+A76 = {
+color = rgb { 24  35  116 }
+color_ui = rgb { 24  35  116 }
+}
+A77 = {
+color = rgb { 24  116  195 }
+color_ui = rgb { 24  116  195 }
+}
+A78 = {
+color = rgb { 24  198  18 }
+color_ui = rgb { 24  198  18 }
+}
+A79 = {
+color = rgb { 25  23  97 }
+color_ui = rgb { 25  23  97 }
+}
+A80 = {
+color = rgb { 25  104  176 }
+color_ui = rgb { 25  104  176 }
+}
+A81 = {
+color = rgb { 25  185  255 }
+color_ui = rgb { 25  185  255 }
+}
+A82 = {
+color = rgb { 26  11  78 }
+color_ui = rgb { 26  11  78 }
+}
+A83 = {
+color = rgb { 26  92  157 }
+color_ui = rgb { 26  92  157 }
+}
+A84 = {
+color = rgb { 26  173  236 }
+color_ui = rgb { 26  173  236 }
+}
+A85 = {
+color = rgb { 26  255  59 }
+color_ui = rgb { 26  255  59 }
+}
+A86 = {
+color = rgb { 27  80  138 }
+color_ui = rgb { 27  80  138 }
+}
+A87 = {
+color = rgb { 27  161  217 }
+color_ui = rgb { 27  161  217 }
+}
+A88 = {
+color = rgb { 27  243  40 }
+color_ui = rgb { 27  243  40 }
+}
+A89 = {
+color = rgb { 28  68  119 }
+color_ui = rgb { 28  68  119 }
+}
+A90 = {
+color = rgb { 28  149  198 }
+color_ui = rgb { 28  149  198 }
+}
+A91 = {
+color = rgb { 28  231  21 }
+color_ui = rgb { 28  231  21 }
+}
+A92 = {
+color = rgb { 29  56  100 }
+color_ui = rgb { 29  56  100 }
+}
+A93 = {
+color = rgb { 29  137  179 }
+color_ui = rgb { 29  137  179 }
+}
+A94 = {
+color = rgb { 29  219  2 }
+color_ui = rgb { 29  219  2 }
+}
+A95 = {
+color = rgb { 30  44  81 }
+color_ui = rgb { 30  44  81 }
+}
+A96 = {
+color = rgb { 30  125  160 }
+color_ui = rgb { 30  125  160 }
+}
+A97 = {
+color = rgb { 30  206  239 }
+color_ui = rgb { 30  206  239 }
+}
+A98 = {
+color = rgb { 31  32  62 }
+color_ui = rgb { 31  32  62 }
+}
+A99 = {
+color = rgb { 31  113  141 }
+color_ui = rgb { 31  113  141 }
+}
+B00 = {
+color = rgb { 31  194  220 }
+color_ui = rgb { 31  194  220 }
+}
+B01 = {
+color = rgb { 32  20  43 }
+color_ui = rgb { 32  20  43 }
+}
+B02 = {
+color = rgb { 32  101  122 }
+color_ui = rgb { 32  101  122 }
+}
+B03 = {
+color = rgb { 32  182  201 }
+color_ui = rgb { 32  182  201 }
+}
+B04 = {
+color = rgb { 33  8  24 }
+color_ui = rgb { 33  8  24 }
+}
+B05 = {
+color = rgb { 33  89  103 }
+color_ui = rgb { 33  89  103 }
+}
+B06 = {
+color = rgb { 33  170  182 }
+color_ui = rgb { 33  170  182 }
+}
+B07 = {
+color = rgb { 33  252  5 }
+color_ui = rgb { 33  252  5 }
+}
+B08 = {
+color = rgb { 34  77  84 }
+color_ui = rgb { 34  77  84 }
+}
+B09 = {
+color = rgb { 34  158  163 }
+color_ui = rgb { 34  158  163 }
+}
+B10 = {
+color = rgb { 34  239  242 }
+color_ui = rgb { 34  239  242 }
+}
+B11 = {
+color = rgb { 35  65  65 }
+color_ui = rgb { 35  65  65 }
+}
+B12 = {
+color = rgb { 35  146  144 }
+color_ui = rgb { 35  146  144 }
+}
+B13 = {
+color = rgb { 35  227  223 }
+color_ui = rgb { 35  227  223 }
+}
+B14 = {
+color = rgb { 36  53  46 }
+color_ui = rgb { 36  53  46 }
+}
+B15 = {
+color = rgb { 36  134  125 }
+color_ui = rgb { 36  134  125 }
+}
+B16 = {
+color = rgb { 36  215  204 }
+color_ui = rgb { 36  215  204 }
+}
+B17 = {
+color = rgb { 37  41  27 }
+color_ui = rgb { 37  41  27 }
+}
+B18 = {
+color = rgb { 37  122  106 }
+color_ui = rgb { 37  122  106 }
+}
+B19 = {
+color = rgb { 37  203  185 }
+color_ui = rgb { 37  203  185 }
+}
+B20 = {
+color = rgb { 38  29  8 }
+color_ui = rgb { 38  29  8 }
+}
+B21 = {
+color = rgb { 38  110  87 }
+color_ui = rgb { 38  110  87 }
+}
+B22 = {
+color = rgb { 38  191  166 }
+color_ui = rgb { 38  191  166 }
+}
+B23 = {
+color = rgb { 39  16  245 }
+color_ui = rgb { 39  16  245 }
+}
+B24 = {
+color = rgb { 39  98  68 }
+color_ui = rgb { 39  98  68 }
+}
+B25 = {
+color = rgb { 39  179  147 }
+color_ui = rgb { 39  179  147 }
+}
+B26 = {
+color = rgb { 40  4  226 }
+color_ui = rgb { 40  4  226 }
+}
+B27 = {
+color = rgb { 40  86  49 }
+color_ui = rgb { 40  86  49 }
+}
+B28 = {
+color = rgb { 40  167  128 }
+color_ui = rgb { 40  167  128 }
+}
+B29 = {
+color = rgb { 40  248  207 }
+color_ui = rgb { 40  248  207 }
+}
+B30 = {
+color = rgb { 41  74  30 }
+color_ui = rgb { 41  74  30 }
+}
+B31 = {
+color = rgb { 41  155  109 }
+color_ui = rgb { 41  155  109 }
+}
+B32 = {
+color = rgb { 41  236  188 }
+color_ui = rgb { 41  236  188 }
+}
+B33 = {
+color = rgb { 42  62  11 }
+color_ui = rgb { 42  62  11 }
+}
+B34 = {
+color = rgb { 42  143  90 }
+color_ui = rgb { 42  143  90 }
+}
+B35 = {
+color = rgb { 42  224  169 }
+color_ui = rgb { 42  224  169 }
+}
+B36 = {
+color = rgb { 43  49  248 }
+color_ui = rgb { 43  49  248 }
+}
+B37 = {
+color = rgb { 43  131  71 }
+color_ui = rgb { 43  131  71 }
+}
+B38 = {
+color = rgb { 43  212  150 }
+color_ui = rgb { 43  212  150 }
+}
+B39 = {
+color = rgb { 44  37  229 }
+color_ui = rgb { 44  37  229 }
+}
+B40 = {
+color = rgb { 44  119  52 }
+color_ui = rgb { 44  119  52 }
+}
+B41 = {
+color = rgb { 44  200  131 }
+color_ui = rgb { 44  200  131 }
+}
+B42 = {
+color = rgb { 45  25  210 }
+color_ui = rgb { 45  25  210 }
+}
+B43 = {
+color = rgb { 45  107  33 }
+color_ui = rgb { 45  107  33 }
+}
+B44 = {
+color = rgb { 45  188  112 }
+color_ui = rgb { 45  188  112 }
+}
+B45 = {
+color = rgb { 46  13  191 }
+color_ui = rgb { 46  13  191 }
+}
+B46 = {
+color = rgb { 46  95  14 }
+color_ui = rgb { 46  95  14 }
+}
+B47 = {
+color = rgb { 46  176  93 }
+color_ui = rgb { 46  176  93 }
+}
+B48 = {
+color = rgb { 47  1  172 }
+color_ui = rgb { 47  1  172 }
+}
+B49 = {
+color = rgb { 47  82  251 }
+color_ui = rgb { 47  82  251 }
+}
+B50 = {
+color = rgb { 47  164  74 }
+color_ui = rgb { 47  164  74 }
+}
+B51 = {
+color = rgb { 47  245  153 }
+color_ui = rgb { 47  245  153 }
+}
+B52 = {
+color = rgb { 48  70  232 }
+color_ui = rgb { 48  70  232 }
+}
+B53 = {
+color = rgb { 48  152  55 }
+color_ui = rgb { 48  152  55 }
+}
+B54 = {
+color = rgb { 48  233  134 }
+color_ui = rgb { 48  233  134 }
+}
+B55 = {
+color = rgb { 49  58  213 }
+color_ui = rgb { 49  58  213 }
+}
+B56 = {
+color = rgb { 49  140  36 }
+color_ui = rgb { 49  140  36 }
+}
+B57 = {
+color = rgb { 49  221  115 }
+color_ui = rgb { 49  221  115 }
+}
+B58 = {
+color = rgb { 50  46  194 }
+color_ui = rgb { 50  46  194 }
+}
+B59 = {
+color = rgb { 50  128  17 }
+color_ui = rgb { 50  128  17 }
+}
+B60 = {
+color = rgb { 50  209  96 }
+color_ui = rgb { 50  209  96 }
+}
+B61 = {
+color = rgb { 51  34  175 }
+color_ui = rgb { 51  34  175 }
+}
+B62 = {
+color = rgb { 51  115  254 }
+color_ui = rgb { 51  115  254 }
+}
+B63 = {
+color = rgb { 51  197  77 }
+color_ui = rgb { 51  197  77 }
+}
+B64 = {
+color = rgb { 52  22  156 }
+color_ui = rgb { 52  22  156 }
+}
+B65 = {
+color = rgb { 52  103  235 }
+color_ui = rgb { 52  103  235 }
+}
+B66 = {
+color = rgb { 52  185  58 }
+color_ui = rgb { 52  185  58 }
+}
+B67 = {
+color = rgb { 53  10  137 }
+color_ui = rgb { 53  10  137 }
+}
+B68 = {
+color = rgb { 53  91  216 }
+color_ui = rgb { 53  91  216 }
+}
+B69 = {
+color = rgb { 53  173  39 }
+color_ui = rgb { 53  173  39 }
+}
+B70 = {
+color = rgb { 53  254  118 }
+color_ui = rgb { 53  254  118 }
+}
+B71 = {
+color = rgb { 54  79  197 }
+color_ui = rgb { 54  79  197 }
+}
+B72 = {
+color = rgb { 54  161  20 }
+color_ui = rgb { 54  161  20 }
+}
+B73 = {
+color = rgb { 54  242  99 }
+color_ui = rgb { 54  242  99 }
+}
+B74 = {
+color = rgb { 55  67  178 }
+color_ui = rgb { 55  67  178 }
+}
+B75 = {
+color = rgb { 55  149  1 }
+color_ui = rgb { 55  149  1 }
+}
+B76 = {
+color = rgb { 55  230  80 }
+color_ui = rgb { 55  230  80 }
+}
+B77 = {
+color = rgb { 56  55  159 }
+color_ui = rgb { 56  55  159 }
+}
+B78 = {
+color = rgb { 56  136  238 }
+color_ui = rgb { 56  136  238 }
+}
+B79 = {
+color = rgb { 56  218  61 }
+color_ui = rgb { 56  218  61 }
+}
+B80 = {
+color = rgb { 57  43  140 }
+color_ui = rgb { 57  43  140 }
+}
+B81 = {
+color = rgb { 57  124  219 }
+color_ui = rgb { 57  124  219 }
+}
+B82 = {
+color = rgb { 57  206  42 }
+color_ui = rgb { 57  206  42 }
+}
+B83 = {
+color = rgb { 58  31  121 }
+color_ui = rgb { 58  31  121 }
+}
+B84 = {
+color = rgb { 58  112  200 }
+color_ui = rgb { 58  112  200 }
+}
+B85 = {
+color = rgb { 58  194  23 }
+color_ui = rgb { 58  194  23 }
+}
+B86 = {
+color = rgb { 59  19  102 }
+color_ui = rgb { 59  19  102 }
+}
+B87 = {
+color = rgb { 59  100  181 }
+color_ui = rgb { 59  100  181 }
+}
+B88 = {
+color = rgb { 59  182  4 }
+color_ui = rgb { 59  182  4 }
+}
+B89 = {
+color = rgb { 60  7  83 }
+color_ui = rgb { 60  7  83 }
+}
+B90 = {
+color = rgb { 60  88  162 }
+color_ui = rgb { 60  88  162 }
+}
+B91 = {
+color = rgb { 60  169  241 }
+color_ui = rgb { 60  169  241 }
+}
+B92 = {
+color = rgb { 60  251  64 }
+color_ui = rgb { 60  251  64 }
+}
+B93 = {
+color = rgb { 61  76  143 }
+color_ui = rgb { 61  76  143 }
+}
+B94 = {
+color = rgb { 61  157  222 }
+color_ui = rgb { 61  157  222 }
+}
+B95 = {
+color = rgb { 61  239  45 }
+color_ui = rgb { 61  239  45 }
+}
+B96 = {
+color = rgb { 62  64  124 }
+color_ui = rgb { 62  64  124 }
+}
+B97 = {
+color = rgb { 62  145  203 }
+color_ui = rgb { 62  145  203 }
+}
+B98 = {
+color = rgb { 62  227  26 }
+color_ui = rgb { 62  227  26 }
+}
+B99 = {
+color = rgb { 63  52  105 }
+color_ui = rgb { 63  52  105 }
+}
+C00 = {
+color = rgb { 63  133  184 }
+color_ui = rgb { 63  133  184 }
+}
+C01 = {
+color = rgb { 63  215  7 }
+color_ui = rgb { 63  215  7 }
+}
+C02 = {
+color = rgb { 64  40  86 }
+color_ui = rgb { 64  40  86 }
+}
+C03 = {
+color = rgb { 64  121  165 }
+color_ui = rgb { 64  121  165 }
+}
+C04 = {
+color = rgb { 64  202  244 }
+color_ui = rgb { 64  202  244 }
+}
+C05 = {
+color = rgb { 65  28  67 }
+color_ui = rgb { 65  28  67 }
+}
+C06 = {
+color = rgb { 65  109  146 }
+color_ui = rgb { 65  109  146 }
+}
+C07 = {
+color = rgb { 65  190  225 }
+color_ui = rgb { 65  190  225 }
+}
+C08 = {
+color = rgb { 66  16  48 }
+color_ui = rgb { 66  16  48 }
+}
+C09 = {
+color = rgb { 66  97  127 }
+color_ui = rgb { 66  97  127 }
+}
+C10 = {
+color = rgb { 66  178  206 }
+color_ui = rgb { 66  178  206 }
+}
+C11 = {
+color = rgb { 67  4  29 }
+color_ui = rgb { 67  4  29 }
+}
+C12 = {
+color = rgb { 67  85  108 }
+color_ui = rgb { 67  85  108 }
+}
+C13 = {
+color = rgb { 67  166  187 }
+color_ui = rgb { 67  166  187 }
+}
+C14 = {
+color = rgb { 67  248  10 }
+color_ui = rgb { 67  248  10 }
+}
+C15 = {
+color = rgb { 68  73  89 }
+color_ui = rgb { 68  73  89 }
+}
+C16 = {
+color = rgb { 68  154  168 }
+color_ui = rgb { 68  154  168 }
+}
+C17 = {
+color = rgb { 68  235  247 }
+color_ui = rgb { 68  235  247 }
+}
+C18 = {
+color = rgb { 69  61  70 }
+color_ui = rgb { 69  61  70 }
+}
+C19 = {
+color = rgb { 69  142  149 }
+color_ui = rgb { 69  142  149 }
+}
+C20 = {
+color = rgb { 69  223  228 }
+color_ui = rgb { 69  223  228 }
+}
+C21 = {
+color = rgb { 70  49  51 }
+color_ui = rgb { 70  49  51 }
+}
+C22 = {
+color = rgb { 70  130  130 }
+color_ui = rgb { 70  130  130 }
+}
+C23 = {
+color = rgb { 70  211  209 }
+color_ui = rgb { 70  211  209 }
+}
+C24 = {
+color = rgb { 71  37  32 }
+color_ui = rgb { 71  37  32 }
+}
+C25 = {
+color = rgb { 71  118  111 }
+color_ui = rgb { 71  118  111 }
+}
+C26 = {
+color = rgb { 71  199  190 }
+color_ui = rgb { 71  199  190 }
+}
+C27 = {
+color = rgb { 72  25  13 }
+color_ui = rgb { 72  25  13 }
+}
+C28 = {
+color = rgb { 72  106  92 }
+color_ui = rgb { 72  106  92 }
+}
+C29 = {
+color = rgb { 72  187  171 }
+color_ui = rgb { 72  187  171 }
+}
+C30 = {
+color = rgb { 73  12  250 }
+color_ui = rgb { 73  12  250 }
+}
+C31 = {
+color = rgb { 73  94  73 }
+color_ui = rgb { 73  94  73 }
+}
+C32 = {
+color = rgb { 73  175  152 }
+color_ui = rgb { 73  175  152 }
+}
+C33 = {
+color = rgb { 74  0  231 }
+color_ui = rgb { 74  0  231 }
+}
+C34 = {
+color = rgb { 74  82  54 }
+color_ui = rgb { 74  82  54 }
+}
+C35 = {
+color = rgb { 74  163  133 }
+color_ui = rgb { 74  163  133 }
+}
+C36 = {
+color = rgb { 74  244  212 }
+color_ui = rgb { 74  244  212 }
+}
+C37 = {
+color = rgb { 75  70  35 }
+color_ui = rgb { 75  70  35 }
+}
+C38 = {
+color = rgb { 75  151  114 }
+color_ui = rgb { 75  151  114 }
+}
+C39 = {
+color = rgb { 75  232  193 }
+color_ui = rgb { 75  232  193 }
+}
+C40 = {
+color = rgb { 76  58  16 }
+color_ui = rgb { 76  58  16 }
+}
+C41 = {
+color = rgb { 76  139  95 }
+color_ui = rgb { 76  139  95 }
+}
+C42 = {
+color = rgb { 76  220  174 }
+color_ui = rgb { 76  220  174 }
+}
+C43 = {
+color = rgb { 77  45  253 }
+color_ui = rgb { 77  45  253 }
+}
+C44 = {
+color = rgb { 77  127  76 }
+color_ui = rgb { 77  127  76 }
+}
+C45 = {
+color = rgb { 77  208  155 }
+color_ui = rgb { 77  208  155 }
+}
+C46 = {
+color = rgb { 78  33  234 }
+color_ui = rgb { 78  33  234 }
+}
+C47 = {
+color = rgb { 78  115  57 }
+color_ui = rgb { 78  115  57 }
+}
+C48 = {
+color = rgb { 78  196  136 }
+color_ui = rgb { 78  196  136 }
+}
+C49 = {
+color = rgb { 79  21  215 }
+color_ui = rgb { 79  21  215 }
+}
+C50 = {
+color = rgb { 79  103  38 }
+color_ui = rgb { 79  103  38 }
+}
+C51 = {
+color = rgb { 79  184  117 }
+color_ui = rgb { 79  184  117 }
+}
+C52 = {
+color = rgb { 80  9  196 }
+color_ui = rgb { 80  9  196 }
+}
+C53 = {
+color = rgb { 80  91  19 }
+color_ui = rgb { 80  91  19 }
+}
+C54 = {
+color = rgb { 80  172  98 }
+color_ui = rgb { 80  172  98 }
+}
+C55 = {
+color = rgb { 80  253  177 }
+color_ui = rgb { 80  253  177 }
+}
+C56 = {
+color = rgb { 81  79  0 }
+color_ui = rgb { 81  79  0 }
+}
+C57 = {
+color = rgb { 81  160  79 }
+color_ui = rgb { 81  160  79 }
+}
+C58 = {
+color = rgb { 81  241  158 }
+color_ui = rgb { 81  241  158 }
+}
+C59 = {
+color = rgb { 82  66  237 }
+color_ui = rgb { 82  66  237 }
+}
+C60 = {
+color = rgb { 82  148  60 }
+color_ui = rgb { 82  148  60 }
+}
+C61 = {
+color = rgb { 82  229  139 }
+color_ui = rgb { 82  229  139 }
+}
+C62 = {
+color = rgb { 83  54  218 }
+color_ui = rgb { 83  54  218 }
+}
+C63 = {
+color = rgb { 83  136  41 }
+color_ui = rgb { 83  136  41 }
+}
+C64 = {
+color = rgb { 83  217  120 }
+color_ui = rgb { 83  217  120 }
+}
+C65 = {
+color = rgb { 84  42  199 }
+color_ui = rgb { 84  42  199 }
+}
+C66 = {
+color = rgb { 84  124  22 }
+color_ui = rgb { 84  124  22 }
+}
+C67 = {
+color = rgb { 84  205  101 }
+color_ui = rgb { 84  205  101 }
+}
+C68 = {
+color = rgb { 85  30  180 }
+color_ui = rgb { 85  30  180 }
+}
+C69 = {
+color = rgb { 85  112  3 }
+color_ui = rgb { 85  112  3 }
+}
+C70 = {
+color = rgb { 85  193  82 }
+color_ui = rgb { 85  193  82 }
+}
+C71 = {
+color = rgb { 86  18  161 }
+color_ui = rgb { 86  18  161 }
+}
+C72 = {
+color = rgb { 86  99  240 }
+color_ui = rgb { 86  99  240 }
+}
+C73 = {
+color = rgb { 86  181  63 }
+color_ui = rgb { 86  181  63 }
+}
+C74 = {
+color = rgb { 87  6  142 }
+color_ui = rgb { 87  6  142 }
+}
+C75 = {
+color = rgb { 87  87  221 }
+color_ui = rgb { 87  87  221 }
+}
+C76 = {
+color = rgb { 87  169  44 }
+color_ui = rgb { 87  169  44 }
+}
+C77 = {
+color = rgb { 87  250  123 }
+color_ui = rgb { 87  250  123 }
+}
+C78 = {
+color = rgb { 88  75  202 }
+color_ui = rgb { 88  75  202 }
+}
+C79 = {
+color = rgb { 88  157  25 }
+color_ui = rgb { 88  157  25 }
+}
+C80 = {
+color = rgb { 88  238  104 }
+color_ui = rgb { 88  238  104 }
+}
+C81 = {
+color = rgb { 89  63  183 }
+color_ui = rgb { 89  63  183 }
+}
+C82 = {
+color = rgb { 89  145  6 }
+color_ui = rgb { 89  145  6 }
+}
+C83 = {
+color = rgb { 89  226  85 }
+color_ui = rgb { 89  226  85 }
+}
+C84 = {
+color = rgb { 90  51  164 }
+color_ui = rgb { 90  51  164 }
+}
+C85 = {
+color = rgb { 90  132  243 }
+color_ui = rgb { 90  132  243 }
+}
+C86 = {
+color = rgb { 90  214  66 }
+color_ui = rgb { 90  214  66 }
+}
+C87 = {
+color = rgb { 91  39  145 }
+color_ui = rgb { 91  39  145 }
+}
+C88 = {
+color = rgb { 91  120  224 }
+color_ui = rgb { 91  120  224 }
+}
+C89 = {
+color = rgb { 91  202  47 }
+color_ui = rgb { 91  202  47 }
+}
+C90 = {
+color = rgb { 92  27  126 }
+color_ui = rgb { 92  27  126 }
+}
+C91 = {
+color = rgb { 92  108  205 }
+color_ui = rgb { 92  108  205 }
+}
+C92 = {
+color = rgb { 92  190  28 }
+color_ui = rgb { 92  190  28 }
+}
+C93 = {
+color = rgb { 93  15  107 }
+color_ui = rgb { 93  15  107 }
+}
+C94 = {
+color = rgb { 93  96  186 }
+color_ui = rgb { 93  96  186 }
+}
+C95 = {
+color = rgb { 93  178  9 }
+color_ui = rgb { 93  178  9 }
+}
+C96 = {
+color = rgb { 94  3  88 }
+color_ui = rgb { 94  3  88 }
+}
+C97 = {
+color = rgb { 94  84  167 }
+color_ui = rgb { 94  84  167 }
+}
+C98 = {
+color = rgb { 94  165  246 }
+color_ui = rgb { 94  165  246 }
+}
+C99 = {
+color = rgb { 94  247  69 }
+color_ui = rgb { 94  247  69 }
+}
+D00 = {
+color = rgb { 95  72  148 }
+color_ui = rgb { 95  72  148 }
+}
+D01 = {
+color = rgb { 95  153  227 }
+color_ui = rgb { 95  153  227 }
+}
+D02 = {
+color = rgb { 95  235  50 }
+color_ui = rgb { 95  235  50 }
+}
+D03 = {
+color = rgb { 96  60  129 }
+color_ui = rgb { 96  60  129 }
+}
+D04 = {
+color = rgb { 96  141  208 }
+color_ui = rgb { 96  141  208 }
+}
+D05 = {
+color = rgb { 96  223  31 }
+color_ui = rgb { 96  223  31 }
+}
+D06 = {
+color = rgb { 97  48  110 }
+color_ui = rgb { 97  48  110 }
+}
+D07 = {
+color = rgb { 97  129  189 }
+color_ui = rgb { 97  129  189 }
+}
+D08 = {
+color = rgb { 97  211  12 }
+color_ui = rgb { 97  211  12 }
+}
+D09 = {
+color = rgb { 98  36  91 }
+color_ui = rgb { 98  36  91 }
+}
+D10 = {
+color = rgb { 98  117  170 }
+color_ui = rgb { 98  117  170 }
+}
+D11 = {
+color = rgb { 98  198  249 }
+color_ui = rgb { 98  198  249 }
+}
+D12 = {
+color = rgb { 99  24  72 }
+color_ui = rgb { 99  24  72 }
+}
+D13 = {
+color = rgb { 99  105  151 }
+color_ui = rgb { 99  105  151 }
+}
+D14 = {
+color = rgb { 99  186  230 }
+color_ui = rgb { 99  186  230 }
+}
+D15 = {
+color = rgb { 100  12  53 }
+color_ui = rgb { 100  12  53 }
+}
+D16 = {
+color = rgb { 100  93  132 }
+color_ui = rgb { 100  93  132 }
+}
+D17 = {
+color = rgb { 100  174  211 }
+color_ui = rgb { 100  174  211 }
+}
+D18 = {
+color = rgb { 101  0  34 }
+color_ui = rgb { 101  0  34 }
+}
+D19 = {
+color = rgb { 101  81  113 }
+color_ui = rgb { 101  81  113 }
+}
+D20 = {
+color = rgb { 101  162  192 }
+color_ui = rgb { 101  162  192 }
+}
+D21 = {
+color = rgb { 101  244  15 }
+color_ui = rgb { 101  244  15 }
+}
+D22 = {
+color = rgb { 102  69  94 }
+color_ui = rgb { 102  69  94 }
+}
+D23 = {
+color = rgb { 102  150  173 }
+color_ui = rgb { 102  150  173 }
+}
+D24 = {
+color = rgb { 102  231  252 }
+color_ui = rgb { 102  231  252 }
+}
+D25 = {
+color = rgb { 103  57  75 }
+color_ui = rgb { 103  57  75 }
+}
+D26 = {
+color = rgb { 103  138  154 }
+color_ui = rgb { 103  138  154 }
+}
+D27 = {
+color = rgb { 103  219  233 }
+color_ui = rgb { 103  219  233 }
+}
+D28 = {
+color = rgb { 104  45  56 }
+color_ui = rgb { 104  45  56 }
+}
+D29 = {
+color = rgb { 104  126  135 }
+color_ui = rgb { 104  126  135 }
+}
+D30 = {
+color = rgb { 104  207  214 }
+color_ui = rgb { 104  207  214 }
+}
+D31 = {
+color = rgb { 105  33  37 }
+color_ui = rgb { 105  33  37 }
+}
+D32 = {
+color = rgb { 105  114  116 }
+color_ui = rgb { 105  114  116 }
+}
+D33 = {
+color = rgb { 105  195  195 }
+color_ui = rgb { 105  195  195 }
+}
+D34 = {
+color = rgb { 106  21  18 }
+color_ui = rgb { 106  21  18 }
+}
+D35 = {
+color = rgb { 106  102  97 }
+color_ui = rgb { 106  102  97 }
+}
+D36 = {
+color = rgb { 106  183  176 }
+color_ui = rgb { 106  183  176 }
+}
+D37 = {
+color = rgb { 107  8  255 }
+color_ui = rgb { 107  8  255 }
+}
+D38 = {
+color = rgb { 107  90  78 }
+color_ui = rgb { 107  90  78 }
+}
+D39 = {
+color = rgb { 107  171  157 }
+color_ui = rgb { 107  171  157 }
+}
+D40 = {
+color = rgb { 107  252  236 }
+color_ui = rgb { 107  252  236 }
+}
+D41 = {
+color = rgb { 108  78  59 }
+color_ui = rgb { 108  78  59 }
+}
+D42 = {
+color = rgb { 108  159  138 }
+color_ui = rgb { 108  159  138 }
+}
+D43 = {
+color = rgb { 108  240  217 }
+color_ui = rgb { 108  240  217 }
+}
+D44 = {
+color = rgb { 109  66  40 }
+color_ui = rgb { 109  66  40 }
+}
+D45 = {
+color = rgb { 109  147  119 }
+color_ui = rgb { 109  147  119 }
+}
+D46 = {
+color = rgb { 109  228  198 }
+color_ui = rgb { 109  228  198 }
+}
+D47 = {
+color = rgb { 110  54  21 }
+color_ui = rgb { 110  54  21 }
+}
+D48 = {
+color = rgb { 110  135  100 }
+color_ui = rgb { 110  135  100 }
+}
+D49 = {
+color = rgb { 110  216  179 }
+color_ui = rgb { 110  216  179 }
+}
+D50 = {
+color = rgb { 111  42  2 }
+color_ui = rgb { 111  42  2 }
+}
+D51 = {
+color = rgb { 111  123  81 }
+color_ui = rgb { 111  123  81 }
+}
+D52 = {
+color = rgb { 111  204  160 }
+color_ui = rgb { 111  204  160 }
+}
+D53 = {
+color = rgb { 112  29  239 }
+color_ui = rgb { 112  29  239 }
+}
+D54 = {
+color = rgb { 112  111  62 }
+color_ui = rgb { 112  111  62 }
+}
+D55 = {
+color = rgb { 112  192  141 }
+color_ui = rgb { 112  192  141 }
+}
+D56 = {
+color = rgb { 113  17  220 }
+color_ui = rgb { 113  17  220 }
+}
+D57 = {
+color = rgb { 113  99  43 }
+color_ui = rgb { 113  99  43 }
+}
+D58 = {
+color = rgb { 113  180  122 }
+color_ui = rgb { 113  180  122 }
+}
+D59 = {
+color = rgb { 114  5  201 }
+color_ui = rgb { 114  5  201 }
+}
+D60 = {
+color = rgb { 114  87  24 }
+color_ui = rgb { 114  87  24 }
+}
+D61 = {
+color = rgb { 114  168  103 }
+color_ui = rgb { 114  168  103 }
+}
+D62 = {
+color = rgb { 114  249  182 }
+color_ui = rgb { 114  249  182 }
+}
+D63 = {
+color = rgb { 115  75  5 }
+color_ui = rgb { 115  75  5 }
+}
+D64 = {
+color = rgb { 115  156  84 }
+color_ui = rgb { 115  156  84 }
+}
+D65 = {
+color = rgb { 115  237  163 }
+color_ui = rgb { 115  237  163 }
+}
+D66 = {
+color = rgb { 116  62  242 }
+color_ui = rgb { 116  62  242 }
+}
+D67 = {
+color = rgb { 116  144  65 }
+color_ui = rgb { 116  144  65 }
+}
+D68 = {
+color = rgb { 116  225  144 }
+color_ui = rgb { 116  225  144 }
+}
+D69 = {
+color = rgb { 117  50  223 }
+color_ui = rgb { 117  50  223 }
+}
+D70 = {
+color = rgb { 117  132  46 }
+color_ui = rgb { 117  132  46 }
+}
+D71 = {
+color = rgb { 117  213  125 }
+color_ui = rgb { 117  213  125 }
+}
+D72 = {
+color = rgb { 118  38  204 }
+color_ui = rgb { 118  38  204 }
+}
+D73 = {
+color = rgb { 118  120  27 }
+color_ui = rgb { 118  120  27 }
+}
+D74 = {
+color = rgb { 118  201  106 }
+color_ui = rgb { 118  201  106 }
+}
+D75 = {
+color = rgb { 119  26  185 }
+color_ui = rgb { 119  26  185 }
+}
+D76 = {
+color = rgb { 119  108  8 }
+color_ui = rgb { 119  108  8 }
+}
+D77 = {
+color = rgb { 119  189  87 }
+color_ui = rgb { 119  189  87 }
+}
+D78 = {
+color = rgb { 120  14  166 }
+color_ui = rgb { 120  14  166 }
+}
+D79 = {
+color = rgb { 120  95  245 }
+color_ui = rgb { 120  95  245 }
+}
+D80 = {
+color = rgb { 120  177  68 }
+color_ui = rgb { 120  177  68 }
+}
+D81 = {
+color = rgb { 121  2  147 }
+color_ui = rgb { 121  2  147 }
+}
+D82 = {
+color = rgb { 121  83  226 }
+color_ui = rgb { 121  83  226 }
+}
+D83 = {
+color = rgb { 121  165  49 }
+color_ui = rgb { 121  165  49 }
+}
+D84 = {
+color = rgb { 121  246  128 }
+color_ui = rgb { 121  246  128 }
+}
+D85 = {
+color = rgb { 122  71  207 }
+color_ui = rgb { 122  71  207 }
+}
+D86 = {
+color = rgb { 122  153  30 }
+color_ui = rgb { 122  153  30 }
+}
+D87 = {
+color = rgb { 122  234  109 }
+color_ui = rgb { 122  234  109 }
+}
+D88 = {
+color = rgb { 123  59  188 }
+color_ui = rgb { 123  59  188 }
+}
+D89 = {
+color = rgb { 123  141  11 }
+color_ui = rgb { 123  141  11 }
+}
+D90 = {
+color = rgb { 123  222  90 }
+color_ui = rgb { 123  222  90 }
+}
+D91 = {
+color = rgb { 124  47  169 }
+color_ui = rgb { 124  47  169 }
+}
+D92 = {
+color = rgb { 124  128  248 }
+color_ui = rgb { 124  128  248 }
+}
+D93 = {
+color = rgb { 124  210  71 }
+color_ui = rgb { 124  210  71 }
+}
+D94 = {
+color = rgb { 125  35  150 }
+color_ui = rgb { 125  35  150 }
+}
+D95 = {
+color = rgb { 125  116  229 }
+color_ui = rgb { 125  116  229 }
+}
+D96 = {
+color = rgb { 125  198  52 }
+color_ui = rgb { 125  198  52 }
+}
+D97 = {
+color = rgb { 126  23  131 }
+color_ui = rgb { 126  23  131 }
+}
+D98 = {
+color = rgb { 126  104  210 }
+color_ui = rgb { 126  104  210 }
+}
+D99 = {
+color = rgb { 126  186  33 }
+color_ui = rgb { 126  186  33 }
+}
+E00 = {
+color = rgb { 127  11  112 }
+color_ui = rgb { 127  11  112 }
+}
+E01 = {
+color = rgb { 127  92  191 }
+color_ui = rgb { 127  92  191 }
+}
+E02 = {
+color = rgb { 127  174  14 }
+color_ui = rgb { 127  174  14 }
+}
+E03 = {
+color = rgb { 127  255  93 }
+color_ui = rgb { 127  255  93 }
+}
+E04 = {
+color = rgb { 128  80  172 }
+color_ui = rgb { 128  80  172 }
+}
+E05 = {
+color = rgb { 128  161  251 }
+color_ui = rgb { 128  161  251 }
+}
+E06 = {
+color = rgb { 128  243  74 }
+color_ui = rgb { 128  243  74 }
+}
+E07 = {
+color = rgb { 129  68  153 }
+color_ui = rgb { 129  68  153 }
+}
+E08 = {
+color = rgb { 129  149  232 }
+color_ui = rgb { 129  149  232 }
+}
+E09 = {
+color = rgb { 129  231  55 }
+color_ui = rgb { 129  231  55 }
+}
+E10 = {
+color = rgb { 130  56  134 }
+color_ui = rgb { 130  56  134 }
+}
+E11 = {
+color = rgb { 130  137  213 }
+color_ui = rgb { 130  137  213 }
+}
+E12 = {
+color = rgb { 130  219  36 }
+color_ui = rgb { 130  219  36 }
+}
+E13 = {
+color = rgb { 131  44  115 }
+color_ui = rgb { 131  44  115 }
+}
+E14 = {
+color = rgb { 131  125  194 }
+color_ui = rgb { 131  125  194 }
+}
+E15 = {
+color = rgb { 131  207  17 }
+color_ui = rgb { 131  207  17 }
+}
+E16 = {
+color = rgb { 132  32  96 }
+color_ui = rgb { 132  32  96 }
+}
+E17 = {
+color = rgb { 132  113  175 }
+color_ui = rgb { 132  113  175 }
+}
+E18 = {
+color = rgb { 132  194  254 }
+color_ui = rgb { 132  194  254 }
+}
+E19 = {
+color = rgb { 133  20  77 }
+color_ui = rgb { 133  20  77 }
+}
+E20 = {
+color = rgb { 133  101  156 }
+color_ui = rgb { 133  101  156 }
+}
+E21 = {
+color = rgb { 133  182  235 }
+color_ui = rgb { 133  182  235 }
+}
+E22 = {
+color = rgb { 134  8  58 }
+color_ui = rgb { 134  8  58 }
+}
+E23 = {
+color = rgb { 134  89  137 }
+color_ui = rgb { 134  89  137 }
+}
+E24 = {
+color = rgb { 134  170  216 }
+color_ui = rgb { 134  170  216 }
+}
+E25 = {
+color = rgb { 134  252  39 }
+color_ui = rgb { 134  252  39 }
+}
+E26 = {
+color = rgb { 135  77  118 }
+color_ui = rgb { 135  77  118 }
+}
+E27 = {
+color = rgb { 135  158  197 }
+color_ui = rgb { 135  158  197 }
+}
+E28 = {
+color = rgb { 135  240  20 }
+color_ui = rgb { 135  240  20 }
+}
+E29 = {
+color = rgb { 136  65  99 }
+color_ui = rgb { 136  65  99 }
+}
+E30 = {
+color = rgb { 136  146  178 }
+color_ui = rgb { 136  146  178 }
+}
+E31 = {
+color = rgb { 136  228  1 }
+color_ui = rgb { 136  228  1 }
+}
+E32 = {
+color = rgb { 137  53  80 }
+color_ui = rgb { 137  53  80 }
+}
+E33 = {
+color = rgb { 137  134  159 }
+color_ui = rgb { 137  134  159 }
+}
+E34 = {
+color = rgb { 137  215  238 }
+color_ui = rgb { 137  215  238 }
+}
+E35 = {
+color = rgb { 138  41  61 }
+color_ui = rgb { 138  41  61 }
+}
+E36 = {
+color = rgb { 138  122  140 }
+color_ui = rgb { 138  122  140 }
+}
+E37 = {
+color = rgb { 138  203  219 }
+color_ui = rgb { 138  203  219 }
+}
+E38 = {
+color = rgb { 139  29  42 }
+color_ui = rgb { 139  29  42 }
+}
+E39 = {
+color = rgb { 139  110  121 }
+color_ui = rgb { 139  110  121 }
+}
+E40 = {
+color = rgb { 139  191  200 }
+color_ui = rgb { 139  191  200 }
+}
+E41 = {
+color = rgb { 140  17  23 }
+color_ui = rgb { 140  17  23 }
+}
+E42 = {
+color = rgb { 140  98  102 }
+color_ui = rgb { 140  98  102 }
+}
+E43 = {
+color = rgb { 140  179  181 }
+color_ui = rgb { 140  179  181 }
+}
+E44 = {
+color = rgb { 141  5  4 }
+color_ui = rgb { 141  5  4 }
+}
+E45 = {
+color = rgb { 141  86  83 }
+color_ui = rgb { 141  86  83 }
+}
+E46 = {
+color = rgb { 141  167  162 }
+color_ui = rgb { 141  167  162 }
+}
+E47 = {
+color = rgb { 141  248  241 }
+color_ui = rgb { 141  248  241 }
+}
+E48 = {
+color = rgb { 142  74  64 }
+color_ui = rgb { 142  74  64 }
+}
+E49 = {
+color = rgb { 142  155  143 }
+color_ui = rgb { 142  155  143 }
+}
+E50 = {
+color = rgb { 142  236  222 }
+color_ui = rgb { 142  236  222 }
+}
+E51 = {
+color = rgb { 143  62  45 }
+color_ui = rgb { 143  62  45 }
+}
+E52 = {
+color = rgb { 143  143  124 }
+color_ui = rgb { 143  143  124 }
+}
+E53 = {
+color = rgb { 143  224  203 }
+color_ui = rgb { 143  224  203 }
+}
+E54 = {
+color = rgb { 144  50  26 }
+color_ui = rgb { 144  50  26 }
+}
+E55 = {
+color = rgb { 144  131  105 }
+color_ui = rgb { 144  131  105 }
+}
+E56 = {
+color = rgb { 144  212  184 }
+color_ui = rgb { 144  212  184 }
+}
+E57 = {
+color = rgb { 145  38  7 }
+color_ui = rgb { 145  38  7 }
+}
+E58 = {
+color = rgb { 145  119  86 }
+color_ui = rgb { 145  119  86 }
+}
+E59 = {
+color = rgb { 145  200  165 }
+color_ui = rgb { 145  200  165 }
+}
+E60 = {
+color = rgb { 146  25  244 }
+color_ui = rgb { 146  25  244 }
+}
+E61 = {
+color = rgb { 146  107  67 }
+color_ui = rgb { 146  107  67 }
+}
+E62 = {
+color = rgb { 146  188  146 }
+color_ui = rgb { 146  188  146 }
+}
+E63 = {
+color = rgb { 147  13  225 }
+color_ui = rgb { 147  13  225 }
+}
+E64 = {
+color = rgb { 147  95  48 }
+color_ui = rgb { 147  95  48 }
+}
+E65 = {
+color = rgb { 147  176  127 }
+color_ui = rgb { 147  176  127 }
+}
+E66 = {
+color = rgb { 148  1  206 }
+color_ui = rgb { 148  1  206 }
+}
+E67 = {
+color = rgb { 148  83  29 }
+color_ui = rgb { 148  83  29 }
+}
+E68 = {
+color = rgb { 148  164  108 }
+color_ui = rgb { 148  164  108 }
+}
+E69 = {
+color = rgb { 148  245  187 }
+color_ui = rgb { 148  245  187 }
+}
+E70 = {
+color = rgb { 149  71  10 }
+color_ui = rgb { 149  71  10 }
+}
+E71 = {
+color = rgb { 149  152  89 }
+color_ui = rgb { 149  152  89 }
+}
+E72 = {
+color = rgb { 149  233  168 }
+color_ui = rgb { 149  233  168 }
+}
+E73 = {
+color = rgb { 150  58  247 }
+color_ui = rgb { 150  58  247 }
+}
+E74 = {
+color = rgb { 150  140  70 }
+color_ui = rgb { 150  140  70 }
+}
+E75 = {
+color = rgb { 150  221  149 }
+color_ui = rgb { 150  221  149 }
+}
+E76 = {
+color = rgb { 151  46  228 }
+color_ui = rgb { 151  46  228 }
+}
+E77 = {
+color = rgb { 151  128  51 }
+color_ui = rgb { 151  128  51 }
+}
+E78 = {
+color = rgb { 151  209  130 }
+color_ui = rgb { 151  209  130 }
+}
+E79 = {
+color = rgb { 152  34  209 }
+color_ui = rgb { 152  34  209 }
+}
+E80 = {
+color = rgb { 152  116  32 }
+color_ui = rgb { 152  116  32 }
+}
+E81 = {
+color = rgb { 152  197  111 }
+color_ui = rgb { 152  197  111 }
+}
+E82 = {
+color = rgb { 153  22  190 }
+color_ui = rgb { 153  22  190 }
+}
+E83 = {
+color = rgb { 153  104  13 }
+color_ui = rgb { 153  104  13 }
+}
+E84 = {
+color = rgb { 153  185  92 }
+color_ui = rgb { 153  185  92 }
+}
+E85 = {
+color = rgb { 154  10  171 }
+color_ui = rgb { 154  10  171 }
+}
+E86 = {
+color = rgb { 154  91  250 }
+color_ui = rgb { 154  91  250 }
+}
+E87 = {
+color = rgb { 154  173  73 }
+color_ui = rgb { 154  173  73 }
+}
+E88 = {
+color = rgb { 154  254  152 }
+color_ui = rgb { 154  254  152 }
+}
+E89 = {
+color = rgb { 155  79  231 }
+color_ui = rgb { 155  79  231 }
+}
+E90 = {
+color = rgb { 155  161  54 }
+color_ui = rgb { 155  161  54 }
+}
+E91 = {
+color = rgb { 155  242  133 }
+color_ui = rgb { 155  242  133 }
+}
+E92 = {
+color = rgb { 156  67  212 }
+color_ui = rgb { 156  67  212 }
+}
+E93 = {
+color = rgb { 156  149  35 }
+color_ui = rgb { 156  149  35 }
+}
+E94 = {
+color = rgb { 156  230  114 }
+color_ui = rgb { 156  230  114 }
+}
+E95 = {
+color = rgb { 157  55  193 }
+color_ui = rgb { 157  55  193 }
+}
+E96 = {
+color = rgb { 157  137  16 }
+color_ui = rgb { 157  137  16 }
+}
+E97 = {
+color = rgb { 157  218  95 }
+color_ui = rgb { 157  218  95 }
+}
+E98 = {
+color = rgb { 158  43  174 }
+color_ui = rgb { 158  43  174 }
+}
+E99 = {
+color = rgb { 158  124  253 }
+color_ui = rgb { 158  124  253 }
+}
+F00 = {
+color = rgb { 158  206  76 }
+color_ui = rgb { 158  206  76 }
+}
+F01 = {
+color = rgb { 159  31  155 }
+color_ui = rgb { 159  31  155 }
+}
+F02 = {
+color = rgb { 159  112  234 }
+color_ui = rgb { 159  112  234 }
+}
+F03 = {
+color = rgb { 159  194  57 }
+color_ui = rgb { 159  194  57 }
+}
+F04 = {
+color = rgb { 160  19  136 }
+color_ui = rgb { 160  19  136 }
+}
+F05 = {
+color = rgb { 160  100  215 }
+color_ui = rgb { 160  100  215 }
+}
+F06 = {
+color = rgb { 160  182  38 }
+color_ui = rgb { 160  182  38 }
+}
+F07 = {
+color = rgb { 161  7  117 }
+color_ui = rgb { 161  7  117 }
+}
+F08 = {
+color = rgb { 161  88  196 }
+color_ui = rgb { 161  88  196 }
+}
+F09 = {
+color = rgb { 161  170  19 }
+color_ui = rgb { 161  170  19 }
+}
+F10 = {
+color = rgb { 161  251  98 }
+color_ui = rgb { 161  251  98 }
+}
+F11 = {
+color = rgb { 162  76  177 }
+color_ui = rgb { 162  76  177 }
+}
+F12 = {
+color = rgb { 162  158  0 }
+color_ui = rgb { 162  158  0 }
+}
+F13 = {
+color = rgb { 162  239  79 }
+color_ui = rgb { 162  239  79 }
+}
+F14 = {
+color = rgb { 163  64  158 }
+color_ui = rgb { 163  64  158 }
+}
+F15 = {
+color = rgb { 163  145  237 }
+color_ui = rgb { 163  145  237 }
+}
+F16 = {
+color = rgb { 163  227  60 }
+color_ui = rgb { 163  227  60 }
+}
+F17 = {
+color = rgb { 164  52  139 }
+color_ui = rgb { 164  52  139 }
+}
+F18 = {
+color = rgb { 164  133  218 }
+color_ui = rgb { 164  133  218 }
+}
+F19 = {
+color = rgb { 164  215  41 }
+color_ui = rgb { 164  215  41 }
+}
+F20 = {
+color = rgb { 165  40  120 }
+color_ui = rgb { 165  40  120 }
+}
+F21 = {
+color = rgb { 165  121  199 }
+color_ui = rgb { 165  121  199 }
+}
+F22 = {
+color = rgb { 165  203  22 }
+color_ui = rgb { 165  203  22 }
+}
+F23 = {
+color = rgb { 166  28  101 }
+color_ui = rgb { 166  28  101 }
+}
+F24 = {
+color = rgb { 166  109  180 }
+color_ui = rgb { 166  109  180 }
+}
+F25 = {
+color = rgb { 166  191  3 }
+color_ui = rgb { 166  191  3 }
+}
+F26 = {
+color = rgb { 167  16  82 }
+color_ui = rgb { 167  16  82 }
+}
+F27 = {
+color = rgb { 167  97  161 }
+color_ui = rgb { 167  97  161 }
+}
+F28 = {
+color = rgb { 167  178  240 }
+color_ui = rgb { 167  178  240 }
+}
+F29 = {
+color = rgb { 168  4  63 }
+color_ui = rgb { 168  4  63 }
+}
+F30 = {
+color = rgb { 168  85  142 }
+color_ui = rgb { 168  85  142 }
+}
+F31 = {
+color = rgb { 168  166  221 }
+color_ui = rgb { 168  166  221 }
+}
+F32 = {
+color = rgb { 168  248  44 }
+color_ui = rgb { 168  248  44 }
+}
+F33 = {
+color = rgb { 169  73  123 }
+color_ui = rgb { 169  73  123 }
+}
+F34 = {
+color = rgb { 169  154  202 }
+color_ui = rgb { 169  154  202 }
+}
+F35 = {
+color = rgb { 169  236  25 }
+color_ui = rgb { 169  236  25 }
+}
+F36 = {
+color = rgb { 170  61  104 }
+color_ui = rgb { 170  61  104 }
+}
+F37 = {
+color = rgb { 170  142  183 }
+color_ui = rgb { 170  142  183 }
+}
+F38 = {
+color = rgb { 170  224  6 }
+color_ui = rgb { 170  224  6 }
+}
+F39 = {
+color = rgb { 171  49  85 }
+color_ui = rgb { 171  49  85 }
+}
+F40 = {
+color = rgb { 171  130  164 }
+color_ui = rgb { 171  130  164 }
+}
+F41 = {
+color = rgb { 171  211  243 }
+color_ui = rgb { 171  211  243 }
+}
+F42 = {
+color = rgb { 172  37  66 }
+color_ui = rgb { 172  37  66 }
+}
+F43 = {
+color = rgb { 172  118  145 }
+color_ui = rgb { 172  118  145 }
+}
+F44 = {
+color = rgb { 172  199  224 }
+color_ui = rgb { 172  199  224 }
+}
+F45 = {
+color = rgb { 173  25  47 }
+color_ui = rgb { 173  25  47 }
+}
+F46 = {
+color = rgb { 173  106  126 }
+color_ui = rgb { 173  106  126 }
+}
+F47 = {
+color = rgb { 173  187  205 }
+color_ui = rgb { 173  187  205 }
+}
+F48 = {
+color = rgb { 174  13  28 }
+color_ui = rgb { 174  13  28 }
+}
+F49 = {
+color = rgb { 174  94  107 }
+color_ui = rgb { 174  94  107 }
+}
+F50 = {
+color = rgb { 174  175  186 }
+color_ui = rgb { 174  175  186 }
+}
+F51 = {
+color = rgb { 175  1  9 }
+color_ui = rgb { 175  1  9 }
+}
+F52 = {
+color = rgb { 175  82  88 }
+color_ui = rgb { 175  82  88 }
+}
+F53 = {
+color = rgb { 175  163  167 }
+color_ui = rgb { 175  163  167 }
+}
+F54 = {
+color = rgb { 175  244  246 }
+color_ui = rgb { 175  244  246 }
+}
+F55 = {
+color = rgb { 176  70  69 }
+color_ui = rgb { 176  70  69 }
+}
+F56 = {
+color = rgb { 176  151  148 }
+color_ui = rgb { 176  151  148 }
+}
+F57 = {
+color = rgb { 176  232  227 }
+color_ui = rgb { 176  232  227 }
+}
+F58 = {
+color = rgb { 177  58  50 }
+color_ui = rgb { 177  58  50 }
+}
+F59 = {
+color = rgb { 177  139  129 }
+color_ui = rgb { 177  139  129 }
+}
+F60 = {
+color = rgb { 177  220  208 }
+color_ui = rgb { 177  220  208 }
+}
+F61 = {
+color = rgb { 178  46  31 }
+color_ui = rgb { 178  46  31 }
+}
+F62 = {
+color = rgb { 178  127  110 }
+color_ui = rgb { 178  127  110 }
+}
+F63 = {
+color = rgb { 178  208  189 }
+color_ui = rgb { 178  208  189 }
+}
+F64 = {
+color = rgb { 179  34  12 }
+color_ui = rgb { 179  34  12 }
+}
+F65 = {
+color = rgb { 179  115  91 }
+color_ui = rgb { 179  115  91 }
+}
+F66 = {
+color = rgb { 179  196  170 }
+color_ui = rgb { 179  196  170 }
+}
+F67 = {
+color = rgb { 180  21  249 }
+color_ui = rgb { 180  21  249 }
+}
+F68 = {
+color = rgb { 180  103  72 }
+color_ui = rgb { 180  103  72 }
+}
+F69 = {
+color = rgb { 180  184  151 }
+color_ui = rgb { 180  184  151 }
+}
+F70 = {
+color = rgb { 181  9  230 }
+color_ui = rgb { 181  9  230 }
+}
+F71 = {
+color = rgb { 181  91  53 }
+color_ui = rgb { 181  91  53 }
+}
+F72 = {
+color = rgb { 181  172  132 }
+color_ui = rgb { 181  172  132 }
+}
+F73 = {
+color = rgb { 181  253  211 }
+color_ui = rgb { 181  253  211 }
+}
+F74 = {
+color = rgb { 182  79  34 }
+color_ui = rgb { 182  79  34 }
+}
+F75 = {
+color = rgb { 182  160  113 }
+color_ui = rgb { 182  160  113 }
+}
+F76 = {
+color = rgb { 182  241  192 }
+color_ui = rgb { 182  241  192 }
+}
+F77 = {
+color = rgb { 183  67  15 }
+color_ui = rgb { 183  67  15 }
+}
+F78 = {
+color = rgb { 183  148  94 }
+color_ui = rgb { 183  148  94 }
+}
+F79 = {
+color = rgb { 183  229  173 }
+color_ui = rgb { 183  229  173 }
+}
+F80 = {
+color = rgb { 184  54  252 }
+color_ui = rgb { 184  54  252 }
+}
+F81 = {
+color = rgb { 184  136  75 }
+color_ui = rgb { 184  136  75 }
+}
+F82 = {
+color = rgb { 184  217  154 }
+color_ui = rgb { 184  217  154 }
+}
+F83 = {
+color = rgb { 185  42  233 }
+color_ui = rgb { 185  42  233 }
+}
+F84 = {
+color = rgb { 185  124  56 }
+color_ui = rgb { 185  124  56 }
+}
+F85 = {
+color = rgb { 185  205  135 }
+color_ui = rgb { 185  205  135 }
+}
+F86 = {
+color = rgb { 186  30  214 }
+color_ui = rgb { 186  30  214 }
+}
+F87 = {
+color = rgb { 186  112  37 }
+color_ui = rgb { 186  112  37 }
+}
+F88 = {
+color = rgb { 186  193  116 }
+color_ui = rgb { 186  193  116 }
+}
+F89 = {
+color = rgb { 187  18  195 }
+color_ui = rgb { 187  18  195 }
+}
+F90 = {
+color = rgb { 187  100  18 }
+color_ui = rgb { 187  100  18 }
+}
+F91 = {
+color = rgb { 187  181  97 }
+color_ui = rgb { 187  181  97 }
+}
+F92 = {
+color = rgb { 188  6  176 }
+color_ui = rgb { 188  6  176 }
+}
+F93 = {
+color = rgb { 188  87  255 }
+color_ui = rgb { 188  87  255 }
+}
+F94 = {
+color = rgb { 188  169  78 }
+color_ui = rgb { 188  169  78 }
+}
+F95 = {
+color = rgb { 188  250  157 }
+color_ui = rgb { 188  250  157 }
+}
+F96 = {
+color = rgb { 189  75  236 }
+color_ui = rgb { 189  75  236 }
+}
+F97 = {
+color = rgb { 189  157  59 }
+color_ui = rgb { 189  157  59 }
+}
+F98 = {
+color = rgb { 189  238  138 }
+color_ui = rgb { 189  238  138 }
+}
+F99 = {
+color = rgb { 190  63  217 }
+color_ui = rgb { 190  63  217 }
+}
+G00 = {
+color = rgb { 190  145  40 }
+color_ui = rgb { 190  145  40 }
+}
+G01 = {
+color = rgb { 190  226  119 }
+color_ui = rgb { 190  226  119 }
+}
+G02 = {
+color = rgb { 191  51  198 }
+color_ui = rgb { 191  51  198 }
+}
+G03 = {
+color = rgb { 191  133  21 }
+color_ui = rgb { 191  133  21 }
+}
+G04 = {
+color = rgb { 191  214  100 }
+color_ui = rgb { 191  214  100 }
+}
+G05 = {
+color = rgb { 192  39  179 }
+color_ui = rgb { 192  39  179 }
+}
+G06 = {
+color = rgb { 192  121  2 }
+color_ui = rgb { 192  121  2 }
+}
+G07 = {
+color = rgb { 192  202  81 }
+color_ui = rgb { 192  202  81 }
+}
+G08 = {
+color = rgb { 193  27  160 }
+color_ui = rgb { 193  27  160 }
+}
+G09 = {
+color = rgb { 193  108  239 }
+color_ui = rgb { 193  108  239 }
+}
+G10 = {
+color = rgb { 193  190  62 }
+color_ui = rgb { 193  190  62 }
+}
+G11 = {
+color = rgb { 194  15  141 }
+color_ui = rgb { 194  15  141 }
+}
+G12 = {
+color = rgb { 194  96  220 }
+color_ui = rgb { 194  96  220 }
+}
+G13 = {
+color = rgb { 194  178  43 }
+color_ui = rgb { 194  178  43 }
+}
+G14 = {
+color = rgb { 195  3  122 }
+color_ui = rgb { 195  3  122 }
+}
+G15 = {
+color = rgb { 195  84  201 }
+color_ui = rgb { 195  84  201 }
+}
+G16 = {
+color = rgb { 195  166  24 }
+color_ui = rgb { 195  166  24 }
+}
+G17 = {
+color = rgb { 195  247  103 }
+color_ui = rgb { 195  247  103 }
+}
+G18 = {
+color = rgb { 196  72  182 }
+color_ui = rgb { 196  72  182 }
+}
+G19 = {
+color = rgb { 196  154  5 }
+color_ui = rgb { 196  154  5 }
+}
+G20 = {
+color = rgb { 196  235  84 }
+color_ui = rgb { 196  235  84 }
+}
+G21 = {
+color = rgb { 197  60  163 }
+color_ui = rgb { 197  60  163 }
+}
+G22 = {
+color = rgb { 197  141  242 }
+color_ui = rgb { 197  141  242 }
+}
+G23 = {
+color = rgb { 197  223  65 }
+color_ui = rgb { 197  223  65 }
+}
+G24 = {
+color = rgb { 198  48  144 }
+color_ui = rgb { 198  48  144 }
+}
+G25 = {
+color = rgb { 198  129  223 }
+color_ui = rgb { 198  129  223 }
+}
+G26 = {
+color = rgb { 198  211  46 }
+color_ui = rgb { 198  211  46 }
+}
+G27 = {
+color = rgb { 199  36  125 }
+color_ui = rgb { 199  36  125 }
+}
+G28 = {
+color = rgb { 199  117  204 }
+color_ui = rgb { 199  117  204 }
+}
+G29 = {
+color = rgb { 199  199  27 }
+color_ui = rgb { 199  199  27 }
+}
+G30 = {
+color = rgb { 200  24  106 }
+color_ui = rgb { 200  24  106 }
+}
+G31 = {
+color = rgb { 200  105  185 }
+color_ui = rgb { 200  105  185 }
+}
+G32 = {
+color = rgb { 200  187  8 }
+color_ui = rgb { 200  187  8 }
+}
+G33 = {
+color = rgb { 201  12  87 }
+color_ui = rgb { 201  12  87 }
+}
+G34 = {
+color = rgb { 201  93  166 }
+color_ui = rgb { 201  93  166 }
+}
+G35 = {
+color = rgb { 201  174  245 }
+color_ui = rgb { 201  174  245 }
+}
+G36 = {
+color = rgb { 202  0  68 }
+color_ui = rgb { 202  0  68 }
+}
+G37 = {
+color = rgb { 202  81  147 }
+color_ui = rgb { 202  81  147 }
+}
+G38 = {
+color = rgb { 202  162  226 }
+color_ui = rgb { 202  162  226 }
+}
+G39 = {
+color = rgb { 202  244  49 }
+color_ui = rgb { 202  244  49 }
+}
+G40 = {
+color = rgb { 203  69  128 }
+color_ui = rgb { 203  69  128 }
+}
+G41 = {
+color = rgb { 203  150  207 }
+color_ui = rgb { 203  150  207 }
+}
+G42 = {
+color = rgb { 203  232  30 }
+color_ui = rgb { 203  232  30 }
+}
+G43 = {
+color = rgb { 204  57  109 }
+color_ui = rgb { 204  57  109 }
+}
+G44 = {
+color = rgb { 204  138  188 }
+color_ui = rgb { 204  138  188 }
+}
+G45 = {
+color = rgb { 204  220  11 }
+color_ui = rgb { 204  220  11 }
+}
+G46 = {
+color = rgb { 205  45  90 }
+color_ui = rgb { 205  45  90 }
+}
+G47 = {
+color = rgb { 205  126  169 }
+color_ui = rgb { 205  126  169 }
+}
+G48 = {
+color = rgb { 205  207  248 }
+color_ui = rgb { 205  207  248 }
+}
+G49 = {
+color = rgb { 206  33  71 }
+color_ui = rgb { 206  33  71 }
+}
+G50 = {
+color = rgb { 206  114  150 }
+color_ui = rgb { 206  114  150 }
+}
+G51 = {
+color = rgb { 206  195  229 }
+color_ui = rgb { 206  195  229 }
+}
+G52 = {
+color = rgb { 207  21  52 }
+color_ui = rgb { 207  21  52 }
+}
+G53 = {
+color = rgb { 207  102  131 }
+color_ui = rgb { 207  102  131 }
+}
+G54 = {
+color = rgb { 207  183  210 }
+color_ui = rgb { 207  183  210 }
+}
+G55 = {
+color = rgb { 208  9  33 }
+color_ui = rgb { 208  9  33 }
+}
+G56 = {
+color = rgb { 208  90  112 }
+color_ui = rgb { 208  90  112 }
+}
+G57 = {
+color = rgb { 208  171  191 }
+color_ui = rgb { 208  171  191 }
+}
+G58 = {
+color = rgb { 208  253  14 }
+color_ui = rgb { 208  253  14 }
+}
+G59 = {
+color = rgb { 209  78  93 }
+color_ui = rgb { 209  78  93 }
+}
+G60 = {
+color = rgb { 209  159  172 }
+color_ui = rgb { 209  159  172 }
+}
+G61 = {
+color = rgb { 209  240  251 }
+color_ui = rgb { 209  240  251 }
+}
+G62 = {
+color = rgb { 210  66  74 }
+color_ui = rgb { 210  66  74 }
+}
+G63 = {
+color = rgb { 210  147  153 }
+color_ui = rgb { 210  147  153 }
+}
+G64 = {
+color = rgb { 210  228  232 }
+color_ui = rgb { 210  228  232 }
+}
+G65 = {
+color = rgb { 211  54  55 }
+color_ui = rgb { 211  54  55 }
+}
+G66 = {
+color = rgb { 211  135  134 }
+color_ui = rgb { 211  135  134 }
+}
+G67 = {
+color = rgb { 211  216  213 }
+color_ui = rgb { 211  216  213 }
+}
+G68 = {
+color = rgb { 212  42  36 }
+color_ui = rgb { 212  42  36 }
+}
+G69 = {
+color = rgb { 212  123  115 }
+color_ui = rgb { 212  123  115 }
+}
+G70 = {
+color = rgb { 212  204  194 }
+color_ui = rgb { 212  204  194 }
+}
+G71 = {
+color = rgb { 213  30  17 }
+color_ui = rgb { 213  30  17 }
+}
+G72 = {
+color = rgb { 213  111  96 }
+color_ui = rgb { 213  111  96 }
+}
+G73 = {
+color = rgb { 213  192  175 }
+color_ui = rgb { 213  192  175 }
+}
+G74 = {
+color = rgb { 214  17  254 }
+color_ui = rgb { 214  17  254 }
+}
+G75 = {
+color = rgb { 214  99  77 }
+color_ui = rgb { 214  99  77 }
+}
+G76 = {
+color = rgb { 214  180  156 }
+color_ui = rgb { 214  180  156 }
+}
+G77 = {
+color = rgb { 215  5  235 }
+color_ui = rgb { 215  5  235 }
+}
+G78 = {
+color = rgb { 215  87  58 }
+color_ui = rgb { 215  87  58 }
+}
+G79 = {
+color = rgb { 215  168  137 }
+color_ui = rgb { 215  168  137 }
+}
+G80 = {
+color = rgb { 215  249  216 }
+color_ui = rgb { 215  249  216 }
+}
+G81 = {
+color = rgb { 216  75  39 }
+color_ui = rgb { 216  75  39 }
+}
+G82 = {
+color = rgb { 216  156  118 }
+color_ui = rgb { 216  156  118 }
+}
+G83 = {
+color = rgb { 216  237  197 }
+color_ui = rgb { 216  237  197 }
+}
+G84 = {
+color = rgb { 217  63  20 }
+color_ui = rgb { 217  63  20 }
+}
+G85 = {
+color = rgb { 217  144  99 }
+color_ui = rgb { 217  144  99 }
+}
+G86 = {
+color = rgb { 217  225  178 }
+color_ui = rgb { 217  225  178 }
+}
+G87 = {
+color = rgb { 218  51  1 }
+color_ui = rgb { 218  51  1 }
+}
+G88 = {
+color = rgb { 218  132  80 }
+color_ui = rgb { 218  132  80 }
+}
+G89 = {
+color = rgb { 218  213  159 }
+color_ui = rgb { 218  213  159 }
+}
+G90 = {
+color = rgb { 219  38  238 }
+color_ui = rgb { 219  38  238 }
+}
+G91 = {
+color = rgb { 219  120  61 }
+color_ui = rgb { 219  120  61 }
+}
+G92 = {
+color = rgb { 219  201  140 }
+color_ui = rgb { 219  201  140 }
+}
+G93 = {
+color = rgb { 220  26  219 }
+color_ui = rgb { 220  26  219 }
+}
+G94 = {
+color = rgb { 220  108  42 }
+color_ui = rgb { 220  108  42 }
+}
+G95 = {
+color = rgb { 220  189  121 }
+color_ui = rgb { 220  189  121 }
+}
+G96 = {
+color = rgb { 221  14  200 }
+color_ui = rgb { 221  14  200 }
+}
+G97 = {
+color = rgb { 221  96  23 }
+color_ui = rgb { 221  96  23 }
+}
+G98 = {
+color = rgb { 221  177  102 }
+color_ui = rgb { 221  177  102 }
+}
+G99 = {
+color = rgb { 222  2  181 }
+color_ui = rgb { 222  2  181 }
+}
+H00 = {
+color = rgb { 222  84  4 }
+color_ui = rgb { 222  84  4 }
+}
+H01 = {
+color = rgb { 222  165  83 }
+color_ui = rgb { 222  165  83 }
+}
+H02 = {
+color = rgb { 222  246  162 }
+color_ui = rgb { 222  246  162 }
+}
+H03 = {
+color = rgb { 223  71  241 }
+color_ui = rgb { 223  71  241 }
+}
+H04 = {
+color = rgb { 223  153  64 }
+color_ui = rgb { 223  153  64 }
+}
+H05 = {
+color = rgb { 223  234  143 }
+color_ui = rgb { 223  234  143 }
+}
+H06 = {
+color = rgb { 224  59  222 }
+color_ui = rgb { 224  59  222 }
+}
+H07 = {
+color = rgb { 224  141  45 }
+color_ui = rgb { 224  141  45 }
+}
+H08 = {
+color = rgb { 224  222  124 }
+color_ui = rgb { 224  222  124 }
+}
+H09 = {
+color = rgb { 225  47  203 }
+color_ui = rgb { 225  47  203 }
+}
+H10 = {
+color = rgb { 225  129  26 }
+color_ui = rgb { 225  129  26 }
+}
+H11 = {
+color = rgb { 225  210  105 }
+color_ui = rgb { 225  210  105 }
+}
+H12 = {
+color = rgb { 226  35  184 }
+color_ui = rgb { 226  35  184 }
+}
+H13 = {
+color = rgb { 226  117  7 }
+color_ui = rgb { 226  117  7 }
+}
+H14 = {
+color = rgb { 226  198  86 }
+color_ui = rgb { 226  198  86 }
+}
+H15 = {
+color = rgb { 227  23  165 }
+color_ui = rgb { 227  23  165 }
+}
+H16 = {
+color = rgb { 227  104  244 }
+color_ui = rgb { 227  104  244 }
+}
+H17 = {
+color = rgb { 227  186  67 }
+color_ui = rgb { 227  186  67 }
+}
+H18 = {
+color = rgb { 228  11  146 }
+color_ui = rgb { 228  11  146 }
+}
+H19 = {
+color = rgb { 228  92  225 }
+color_ui = rgb { 228  92  225 }
+}
+H20 = {
+color = rgb { 228  174  48 }
+color_ui = rgb { 228  174  48 }
+}
+H21 = {
+color = rgb { 228  255  127 }
+color_ui = rgb { 228  255  127 }
+}
+H22 = {
+color = rgb { 229  80  206 }
+color_ui = rgb { 229  80  206 }
+}
+H23 = {
+color = rgb { 229  162  29 }
+color_ui = rgb { 229  162  29 }
+}
+H24 = {
+color = rgb { 229  243  108 }
+color_ui = rgb { 229  243  108 }
+}
+H25 = {
+color = rgb { 230  68  187 }
+color_ui = rgb { 230  68  187 }
+}
+H26 = {
+color = rgb { 230  150  10 }
+color_ui = rgb { 230  150  10 }
+}
+H27 = {
+color = rgb { 230  231  89 }
+color_ui = rgb { 230  231  89 }
+}
+H28 = {
+color = rgb { 231  56  168 }
+color_ui = rgb { 231  56  168 }
+}
+H29 = {
+color = rgb { 231  137  247 }
+color_ui = rgb { 231  137  247 }
+}
+H30 = {
+color = rgb { 231  219  70 }
+color_ui = rgb { 231  219  70 }
+}
+H31 = {
+color = rgb { 232  44  149 }
+color_ui = rgb { 232  44  149 }
+}
+H32 = {
+color = rgb { 232  125  228 }
+color_ui = rgb { 232  125  228 }
+}
+H33 = {
+color = rgb { 232  207  51 }
+color_ui = rgb { 232  207  51 }
+}
+H34 = {
+color = rgb { 233  32  130 }
+color_ui = rgb { 233  32  130 }
+}
+H35 = {
+color = rgb { 233  113  209 }
+color_ui = rgb { 233  113  209 }
+}
+H36 = {
+color = rgb { 233  195  32 }
+color_ui = rgb { 233  195  32 }
+}
+H37 = {
+color = rgb { 234  20  111 }
+color_ui = rgb { 234  20  111 }
+}
+H38 = {
+color = rgb { 234  101  190 }
+color_ui = rgb { 234  101  190 }
+}
+H39 = {
+color = rgb { 234  183  13 }
+color_ui = rgb { 234  183  13 }
+}
+H40 = {
+color = rgb { 235  8  92 }
+color_ui = rgb { 235  8  92 }
+}
+H41 = {
+color = rgb { 235  89  171 }
+color_ui = rgb { 235  89  171 }
+}
+H42 = {
+color = rgb { 235  170  250 }
+color_ui = rgb { 235  170  250 }
+}
+H43 = {
+color = rgb { 235  252  73 }
+color_ui = rgb { 235  252  73 }
+}
+H44 = {
+color = rgb { 236  77  152 }
+color_ui = rgb { 236  77  152 }
+}
+H45 = {
+color = rgb { 236  158  231 }
+color_ui = rgb { 236  158  231 }
+}
+H46 = {
+color = rgb { 236  240  54 }
+color_ui = rgb { 236  240  54 }
+}
+H47 = {
+color = rgb { 237  65  133 }
+color_ui = rgb { 237  65  133 }
+}
+H48 = {
+color = rgb { 237  146  212 }
+color_ui = rgb { 237  146  212 }
+}
+H49 = {
+color = rgb { 237  228  35 }
+color_ui = rgb { 237  228  35 }
+}
+H50 = {
+color = rgb { 238  53  114 }
+color_ui = rgb { 238  53  114 }
+}
+H51 = {
+color = rgb { 238  134  193 }
+color_ui = rgb { 238  134  193 }
+}
+H52 = {
+color = rgb { 238  216  16 }
+color_ui = rgb { 238  216  16 }
+}
+H53 = {
+color = rgb { 239  41  95 }
+color_ui = rgb { 239  41  95 }
+}
+H54 = {
+color = rgb { 239  122  174 }
+color_ui = rgb { 239  122  174 }
+}
+H55 = {
+color = rgb { 239  203  253 }
+color_ui = rgb { 239  203  253 }
+}
+H56 = {
+color = rgb { 240  29  76 }
+color_ui = rgb { 240  29  76 }
+}
+H57 = {
+color = rgb { 240  110  155 }
+color_ui = rgb { 240  110  155 }
+}
+H58 = {
+color = rgb { 240  191  234 }
+color_ui = rgb { 240  191  234 }
+}
+H59 = {
+color = rgb { 241  17  57 }
+color_ui = rgb { 241  17  57 }
+}
+H60 = {
+color = rgb { 241  98  136 }
+color_ui = rgb { 241  98  136 }
+}
+H61 = {
+color = rgb { 241  179  215 }
+color_ui = rgb { 241  179  215 }
+}
+H62 = {
+color = rgb { 242  5  38 }
+color_ui = rgb { 242  5  38 }
+}
+H63 = {
+color = rgb { 242  86  117 }
+color_ui = rgb { 242  86  117 }
+}
+H64 = {
+color = rgb { 242  167  196 }
+color_ui = rgb { 242  167  196 }
+}
+H65 = {
+color = rgb { 242  249  19 }
+color_ui = rgb { 242  249  19 }
+}
+H66 = {
+color = rgb { 243  74  98 }
+color_ui = rgb { 243  74  98 }
+}
+H67 = {
+color = rgb { 243  155  177 }
+color_ui = rgb { 243  155  177 }
+}
+H68 = {
+color = rgb { 243  237  0 }
+color_ui = rgb { 243  237  0 }
+}
+H69 = {
+color = rgb { 244  62  79 }
+color_ui = rgb { 244  62  79 }
+}
+H70 = {
+color = rgb { 244  143  158 }
+color_ui = rgb { 244  143  158 }
+}
+H71 = {
+color = rgb { 244  224  237 }
+color_ui = rgb { 244  224  237 }
+}
+H72 = {
+color = rgb { 245  50  60 }
+color_ui = rgb { 245  50  60 }
+}
+H73 = {
+color = rgb { 245  131  139 }
+color_ui = rgb { 245  131  139 }
+}
+H74 = {
+color = rgb { 245  212  218 }
+color_ui = rgb { 245  212  218 }
+}
+H75 = {
+color = rgb { 246  38  41 }
+color_ui = rgb { 246  38  41 }
+}
+H76 = {
+color = rgb { 246  119  120 }
+color_ui = rgb { 246  119  120 }
+}
+H77 = {
+color = rgb { 246  200  199 }
+color_ui = rgb { 246  200  199 }
+}
+H78 = {
+color = rgb { 247  26  22 }
+color_ui = rgb { 247  26  22 }
+}
+H79 = {
+color = rgb { 247  107  101 }
+color_ui = rgb { 247  107  101 }
+}
+H80 = {
+color = rgb { 247  188  180 }
+color_ui = rgb { 247  188  180 }
+}
+H81 = {
+color = rgb { 248  14  3 }
+color_ui = rgb { 248  14  3 }
+}
+H82 = {
+color = rgb { 248  95  82 }
+color_ui = rgb { 248  95  82 }
+}
+H83 = {
+color = rgb { 248  176  161 }
+color_ui = rgb { 248  176  161 }
+}
+H84 = {
+color = rgb { 249  1  240 }
+color_ui = rgb { 249  1  240 }
+}
+H85 = {
+color = rgb { 249  83  63 }
+color_ui = rgb { 249  83  63 }
+}
+H86 = {
+color = rgb { 249  164  142 }
+color_ui = rgb { 249  164  142 }
+}
+H87 = {
+color = rgb { 249  245  221 }
+color_ui = rgb { 249  245  221 }
+}
+H88 = {
+color = rgb { 250  71  44 }
+color_ui = rgb { 250  71  44 }
+}
+H89 = {
+color = rgb { 250  152  123 }
+color_ui = rgb { 250  152  123 }
+}
+H90 = {
+color = rgb { 250  233  202 }
+color_ui = rgb { 250  233  202 }
+}
+H91 = {
+color = rgb { 251  59  25 }
+color_ui = rgb { 251  59  25 }
+}
+H92 = {
+color = rgb { 251  140  104 }
+color_ui = rgb { 251  140  104 }
+}
+H93 = {
+color = rgb { 251  221  183 }
+color_ui = rgb { 251  221  183 }
+}
+H94 = {
+color = rgb { 252  47  6 }
+color_ui = rgb { 252  47  6 }
+}
+H95 = {
+color = rgb { 252  128  85 }
+color_ui = rgb { 252  128  85 }
+}
+H96 = {
+color = rgb { 252  209  164 }
+color_ui = rgb { 252  209  164 }
+}
+H97 = {
+color = rgb { 253  34  243 }
+color_ui = rgb { 253  34  243 }
+}
+H98 = {
+color = rgb { 253  116  66 }
+color_ui = rgb { 253  116  66 }
+}
+H99 = {
+color = rgb { 253  197  145 }
+color_ui = rgb { 253  197  145 }
+}
+I00 = {
+color = rgb { 254  22  224 }
+color_ui = rgb { 254  22  224 }
+}
+I01 = {
+color = rgb { 254  104  47 }
+color_ui = rgb { 254  104  47 }
+}
+I02 = {
+color = rgb { 254  185  126 }
+color_ui = rgb { 254  185  126 }
+}
+I03 = {
+color = rgb { 255  10  205 }
+color_ui = rgb { 255  10  205 }
+}
+I04 = {
+color = rgb { 255  92  28 }
+color_ui = rgb { 255  92  28 }
+}
+I05 = {
+color = rgb { 255  173  107 }
+color_ui = rgb { 255  173  107 }
+}
+I06 = {
+color = rgb { 255  254  186 }
+color_ui = rgb { 255  254  186 }
+}

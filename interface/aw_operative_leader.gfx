@@ -1,0 +1,7 @@
+spriteTypes = {
+	#Agents
+	spriteType = {
+		name = "GFX_portrait_IF"
+		texturefile = "gfx/leaders/HDN/Portrait_IF.dds"
+	}
+}

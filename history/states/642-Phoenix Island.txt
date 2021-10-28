@@ -1,0 +1,23 @@
+﻿
+state={
+	id=642
+	name="STATE_642"
+	manpower=24
+	
+	state_category = tiny_island
+
+	history={
+owner = G42
+add_core_of = G42
+		buildings = {
+			infrastructure = 3
+			13050 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		13050 
+	}
+}

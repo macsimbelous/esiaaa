@@ -1,0 +1,28 @@
+﻿MRO_OPERATIVE_CODENAME_HISTORICAL = {
+	name = ITA_OPERATIVE_CODENAME_HISTORICAL
+
+	for_countries = { MRO }
+
+	type = codename
+
+	fallback_name = "Agent %d"
+
+	unique = {
+		"Lupo"
+		"Passero"
+		"Falco"
+		"Aquila"
+		"Serpente"
+		"Orso"
+		"Tigre"
+		"Condor"
+		"Gazza"
+		"Tartaruga"
+		"Squalo"
+		"Topo"
+		"Calabrone"
+		"Drago"
+		"Farfalla"
+		"Stallone"
+	}
+}

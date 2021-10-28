@@ -1,0 +1,31 @@
+form_scandinavia_category = {
+	icon = generic_formable_nations
+	picture = GFX_decision_cat_generic_scandinavia
+	allowed = {
+		has_dlc = "Waking the Tiger"
+	}
+}
+
+form_united_central_america_category = {
+	icon = generic_formable_nations
+	picture = GFX_decision_cat_generic_united_central_america
+	allowed = {
+		has_dlc = "Waking the Tiger"
+	}
+}
+
+form_european_union_category = {
+	icon = generic_formable_nations
+	picture = GFX_decision_cat_generic_european_union
+	allowed = {
+		has_dlc = "Waking the Tiger"
+	}
+}
+
+form_greater_german_reich_category = {
+	icon = generic_formable_nations
+	picture = GFX_decision_cat_generic_hre
+	allowed = {
+		has_dlc = "Waking the Tiger"
+	}
+}

@@ -1,0 +1,25 @@
+﻿
+state={
+	id=77
+	name="STATE_77"
+	manpower = 378000
+	
+	state_category = rural
+
+	history={
+		victory_points = {
+			11597 1
+		}
+owner = A77
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+add_core_of = A77
+		add_claim_by = BUL
+	}
+
+	provinces={
+		9614 11597 
+	}
+}

@@ -1,0 +1,31 @@
+﻿#Generic Operative list
+GENERIC_FEE_OPERATIVE_CODENAME_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_OPERATIVES
+
+	# for all English speaking countries
+	for_countries = { FEE }
+
+	type = codename
+
+	fallback_name = "Agent %d"
+
+	unique = {
+		"Jean"
+		"Pierre"
+		"Charles"
+		"Jacques"
+		"André"
+		"Thomas"
+		"Michel"
+		"Maurice"
+		"Henri"
+		"Gilles"
+		"Olivier"
+		"Étienne"
+		"Nicolas"
+		"Francois"
+		"Mathieu"
+		"Gabriel"
+		"Baptiste"
+	}
+}

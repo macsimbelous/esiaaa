@@ -1,0 +1,214 @@
+form_greater_final_fantasy_xiii_reich_category = {
+	form_greater_final_fantasy_xiii_reich = {
+		icon = generic_form_nation
+		name = form_greater_final_fantasy_xiii_reich.t
+		allowed = {
+			has_dlc = "Waking the Tiger"
+		}
+		available = {
+			is_subject = no
+			all_owned_state = {
+				is_fully_controlled_by = ROOT
+			}
+			# FF13
+			#custom_trigger_tooltip = {
+			#	tooltip = form_gff13r_ff13_required_states_tt
+			#	controls_state = 793
+			#	controls_state = 168
+			#	controls_state = 167
+			#}
+			# FF10
+			custom_trigger_tooltip = {
+				tooltip = form_gff13r_ff10_required_states_tt
+				controls_state = 173
+				controls_state = 789
+				controls_state = 169
+				controls_state = 118
+			}
+			# FF7
+			custom_trigger_tooltip = {
+				tooltip = form_gff13r_ff7_required_states_tt
+				controls_state = 41
+				controls_state = 175
+				controls_state = 170
+				controls_state = 788
+			}
+			# FF12
+			custom_trigger_tooltip = {
+				tooltip = form_gff13r_ff12_required_states_tt
+				controls_state = 179
+				controls_state = 795
+				controls_state = 181
+				controls_state = 112
+			}
+			# FF8
+			custom_trigger_tooltip = {
+				tooltip = form_gff13r_ff8_required_states_tt
+				controls_state = 791
+				controls_state = 174
+				controls_state = 180
+				controls_state = 171
+				controls_state = 790
+			}
+			# FF9
+			custom_trigger_tooltip = {
+				tooltip = form_gff13r_ff9_required_states_tt
+				controls_state = 19
+				controls_state = 806
+				controls_state = 172
+				controls_state = 176
+				controls_state = 792
+			}
+			# FF15
+			custom_trigger_tooltip = {
+				tooltip = form_gff13r_ff15_required_states_tt
+				controls_state = 177
+				controls_state = 165
+				controls_state = 794
+				controls_state = 166
+			}
+		}
+		visible = {
+			AND = {
+				has_government = fascism
+				has_country_leader = {
+					ruling_only = yes
+					name = "Lightning"
+				}
+			}
+			NOT = {
+				has_global_flag = form_greater_final_fantasy_xiii_reich_flag
+			}
+
+		}
+		complete_effect = {
+			set_cosmetic_tag = F13_greater_final_fantasy_xiii_reich
+			set_province_name = {
+				id = 3945
+				name = "Greater Final Fantasy XIII Reich"
+			}
+			hidden_effect = {
+				set_global_flag = form_greater_final_fantasy_xiii_reich_flag
+			}
+			# FF13
+			#custom_effect_tooltip = form_gff13r_ff13_coring_states_tt
+			#hidden_effect = {
+			#	793 = {
+			#		add_core_of = ROOT
+			#	}
+			#	167 = {
+			#		add_core_of = ROOT
+			#	}
+			#	168 = {
+			#		add_core_of = ROOT
+			#	}
+			#}
+			# FF10
+			custom_effect_tooltip = form_gff13r_ff10_coring_states_tt
+			hidden_effect = {
+				173 = {
+					add_core_of = ROOT
+				}
+				789 = {
+					add_core_of = ROOT
+				}
+				169 = {
+					add_core_of = ROOT
+				}
+				118 = {
+					add_core_of = ROOT
+				}
+			}
+			# FF7
+			custom_effect_tooltip = form_gff13r_ff7_coring_states_tt
+			hidden_effect = {
+				41 = {
+					add_core_of = ROOT
+				}
+				170 = {
+					add_core_of = ROOT
+				}
+				175 = {
+					add_core_of = ROOT
+				}
+				788 = {
+					add_core_of = ROOT
+				}
+			}
+			# FF12
+			custom_effect_tooltip = form_gff13r_ff12_coring_states_tt
+			hidden_effect = {
+				179 = {
+					add_core_of = ROOT
+				}
+				795 = {
+					add_core_of = ROOT
+				}
+				181 = {
+					add_core_of = ROOT
+				}
+				112 = {
+					add_core_of = ROOT
+				}
+			}
+			# FF8
+			custom_effect_tooltip = form_gff13r_ff8_coring_states_tt
+			hidden_effect = {
+				791 = {
+					add_core_of = ROOT
+				}
+				171 = {
+					add_core_of = ROOT
+				}
+				174 = {
+					add_core_of = ROOT
+				}
+				180 = {
+					add_core_of = ROOT
+				}
+				790 = {
+					add_core_of = ROOT
+				}
+			}
+			# FF9
+			custom_effect_tooltip = form_gff13r_ff9_coring_states_tt
+			hidden_effect = {
+				19 = {
+					add_core_of = ROOT
+				}
+				806 = {
+					add_core_of = ROOT
+				}
+				172 = {
+					add_core_of = ROOT
+				}
+				176 = {
+					add_core_of = ROOT
+				}
+				792 = {
+					add_core_of = ROOT
+				}
+			}
+			# FF15
+			custom_effect_tooltip = form_gff13r_ff15_coring_states_tt
+			hidden_effect = {
+				177 = {
+					add_core_of = ROOT
+				}
+				165 = {
+					add_core_of = ROOT
+				}
+				166 = {
+					add_core_of = ROOT
+				}
+				794 = {
+					add_core_of = ROOT
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 200
+
+		}
+	}
+}

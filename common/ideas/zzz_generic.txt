@@ -1167,7 +1167,10 @@ ideas = {
 			}
 			picture = aw_generic_army_chief_off_female
 			traits = {
-				army_chief_offensive_1
+				army_chief_offensive_3
+			}
+			ai_will_do = {
+				factor = 5
 			}
 		}
 		generic_army_chief_def = {
@@ -1176,7 +1179,7 @@ ideas = {
 			}
 			picture = aw_generic_army_chief_def_female
 			traits = {
-				army_chief_defensive_1
+				army_chief_defensive_3
 			}
 		}
 	}
@@ -1187,7 +1190,7 @@ ideas = {
 			}
 			picture = aw_generic_navy_chief_decisive_bat_female
 			traits = {
-				navy_chief_decisive_battle_2
+				navy_chief_decisive_battle_3
 			}
 		}
 		generic_navy_anti_submarine = {
@@ -1196,7 +1199,7 @@ ideas = {
 			}
 			picture = aw_generic_navy_anti_submarine_female
 			traits = {
-				navy_anti_submarine_2
+				navy_anti_submarine_3
 			}
 		}
 	}
@@ -1207,7 +1210,7 @@ ideas = {
 			}
 			picture = aw_generic_air_close_air_sup_female
 			traits = {
-				air_close_air_support_2
+				air_close_air_support_3
 			}
 		}
 		generic_air_chief_all_weather = {
@@ -1216,7 +1219,7 @@ ideas = {
 			}
 			picture = aw_generic_air_chief_all_weather_female
 			traits = {
-				air_chief_all_weather_2
+				air_chief_all_weather_3
 			}
 		}
 	}
@@ -1228,7 +1231,7 @@ ideas = {
 			}
 			picture = aw_generic_army_art_female
 			traits = {
-				army_artillery_1
+				army_artillery_3
 			}
 		}
 		generic_army_log = {
@@ -1238,7 +1241,7 @@ ideas = {
 			}
 			picture = aw_generic_army_log_female
 			traits = {
-				army_logistics_2
+				army_logistics_3
 			}
 		}
 		generic_navy_fleet_log = {
@@ -1248,7 +1251,7 @@ ideas = {
 			}
 			picture = aw_generic_navy_fleet_log_female
 			traits = {
-				navy_fleet_logistics_1
+				navy_fleet_logistics_3
 			}
 		}
 		generic_air_air_combat_trainer = {
@@ -1258,7 +1261,7 @@ ideas = {
 			}
 			picture = aw_generic_air_air_combat_trainer_female
 			traits = {
-				air_air_combat_training_2
+				air_air_combat_training_3
 			}
 		}
 	}
@@ -1269,7 +1272,7 @@ ideas = {
 				always = yes
 			}
 			research_bonus = {
-				land_doctrine = 0.1
+				land_doctrine = 0.2
 			}
 			picture = aw_generic_military_theorist_female
 			traits = {
@@ -1282,7 +1285,7 @@ ideas = {
 				always = yes
 			}
 			research_bonus = {
-				naval_doctrine = 0.1
+				naval_doctrine = 0.2
 			}
 			picture = aw_generic_naval_theorist_female
 			traits = {
@@ -1295,7 +1298,7 @@ ideas = {
 				always = yes
 			}
 			research_bonus = {
-				air_doctrine = 0.1
+				air_doctrine = 0.2
 			}
 			picture = aw_generic_air_warfare_theorist_female
 			traits = {

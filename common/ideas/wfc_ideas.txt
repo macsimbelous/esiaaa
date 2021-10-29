@@ -60,10 +60,25 @@ ideas = {
 				neutrality_acceptance = 85
 			}
 		}
+		wfc_collectivist_ethos_focus = {
+			name = collectivist_ethos_focus
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				has_government = communism
+			}
+			removal_cost = -1
+			picture = generic_pp_unity_bonus
+			modifier = {
+				democratic_drift = -0.05
+				neutrality_drift = -0.05
+			}
+		}
 	}
 	political_advisor = {
 		jeff_five = {
-			picture = wfc_generic_female_05
+			picture = aw_generic_air_warfare_theorist_female
 			traits = {
 				silent_workhorse
 			}
@@ -72,12 +87,13 @@ ideas = {
 			}
 		}
 		jeff_seven = {
-			picture = wfc_generic_army_female_03
+			picture = aw_generic_army_log_female
 			traits = {
 				princess_of_terror
 			}
 			modifier = {
 				compliance_growth = 0.15
+				resistance_decay = 0.15
 			}
 			ai_will_do = {
 				base = 1
@@ -88,7 +104,7 @@ ideas = {
 			}
 		}
 		jeff_eight = {
-			picture = wfc_generic_female_04
+			picture = aw_generic_military_theorist_female
 			traits = {
 				popular_figurehead
 			}
@@ -99,20 +115,20 @@ ideas = {
 	}
 	theorist = {
 		jeff_theorist_four = {
-			picture = wfc_generic_female_05
+			picture = aw_generic_air_close_air_sup_female
 			ledger = army
 			ai_will_do = {
 				factor = 5
 			}
 			traits = {
-				#wfc_girl_scientist
-				nuclear_scientist
+				wfc_girl_scientist
+				#nuclear_scientist
 			}
 		}
 	}
 	army_chief = {
 		jeff_chief = {
-			picture = wfc_generic_army_female_02
+			picture = aw_generic_army_chief_off_female
 			traits = {
 				army_chief_drill_3
 			}
@@ -120,28 +136,10 @@ ideas = {
 				factor = 1
 			}
 		}
-		jeff_chief_two = {
-			picture = wfc_generic_army_female_01
-			traits = {
-				army_chief_defensive_3
-			}
-			ai_will_do = {
-				factor = 1
-			}
-		}
-		jeff_chief_three = {
-			picture = wfc_generic_army_female_03
-			traits = {
-				army_chief_offensive_3
-			}
-			ai_will_do = {
-				factor = 2
-			}
-		}
 	}
 	air_chief = {
 		jeff_air = {
-			picture = wfc_generic_female_01
+			picture = aw_generic_air_close_air_sup_female
 			traits = {
 				air_chief_ground_support_3
 			}
@@ -149,17 +147,8 @@ ideas = {
 				factor = 1
 			}
 		}
-		jeff_air_two = {
-			picture = wfc_generic_female_02
-			traits = {
-				air_chief_all_weather_3
-			}
-			ai_will_do = {
-				factor = 1
-			}
-		}
 		jeff_air_three = {
-			picture = wfc_generic_female_03
+			picture = aw_generic_air_air_combat_trainer_female
 			traits = {
 				air_chief_reform_3
 			}
@@ -169,17 +158,8 @@ ideas = {
 		}
 	}
 	navy_chief = {
-		jeff_navy = {
-			picture = wfc_generic_navy_female_03
-			traits = {
-				navy_chief_decisive_battle_3
-			}
-			ai_will_do = {
-				factor = 1
-			}
-		}
 		jeff_navy_two = {
-			picture = wfc_generic_navy_female_04
+			picture = aw_generic_navy_chief_decisive_bat_female
 			traits = {
 				navy_chief_commerce_raiding_3
 			}
@@ -190,7 +170,7 @@ ideas = {
 	}
 	high_command = {
 		jeff_high = {
-			picture = wfc_generic_army_female_01
+			picture = aw_generic_army_art_female
 			ledger = army
 			traits = {
 				army_infantry_3
@@ -200,7 +180,7 @@ ideas = {
 			}
 		}
 		jeff_high_two = {
-			picture = wfc_generic_army_female_02
+			picture = aw_generic_army_chief_def_female
 			ledger = army
 			traits = {
 				army_armored_3
@@ -210,7 +190,7 @@ ideas = {
 			}
 		}
 		jeff_high_three = {
-			picture = wfc_generic_army_female_03
+			picture = aw_generic_war_industrialist_female
 			ledger = army
 			traits = {
 				army_regrouping_3
@@ -219,18 +199,8 @@ ideas = {
 				factor = 1
 			}
 		}
-		jeff_high_four = {
-			picture = wfc_generic_female_01
-			ledger = army
-			traits = {
-				army_logistics_3
-			}
-			ai_will_do = {
-				factor = 1
-			}
-		}
 		jeff_high_nine = {
-			picture = wfc_generic_female_03
+			picture = aw_generic_army_chief_off_female
 			ledger = army
 			traits = {
 				army_cavalry_3
@@ -625,7 +595,7 @@ ideas = {
 	naval_manufacturer = {
 		designer = yes
 		wfc_submarine_company = {
-			#picture = idea_generic_naval_manufacturer_1
+			picture = generic_naval_manufacturer_1
 			name = generic_naval_manufacturer
 
 			research_bonus = {
@@ -633,21 +603,21 @@ ideas = {
 			}
 			cost = 150
 			traits = {
-				#wfc_submarine_manufacturer
-				submarine_specialist
+				wfc_submarine_manufacturer
+				#submarine_specialist
 			}
 			modifier = {
 			}
 		}
 		wfc_carrier_company = {
-			#picture = idea_generic_navy_carrier_bonus
+			picture = generic_navy_carrier_bonus
 			name = generic_naval_manufacturer
 			research_bonus = {
 				naval_equipment = 0.15
 			}
 			cost = 150
 			traits = {
-				#wfc_carrier_manufacturer
+				wfc_carrier_manufacturer
 			}
 			modifier = {
 			}
@@ -661,7 +631,7 @@ ideas = {
 			}
 			cost = 150
 			traits = {
-				#wfc_battlefleet_designer
+				wfc_battlefleet_designer
 			}
 			modifier = {
 			}
@@ -724,7 +694,7 @@ ideas = {
 				nuclear_production_factor = 0.15
 			}
 			traits = {
-				#wfc_atom_concern_trait
+				wfc_atom_concern_trait
 			}
 		}
 		wfc_refining_concern = {

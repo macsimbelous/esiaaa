@@ -4,9 +4,18 @@ bookmarks = {
 		desc = "AW_desc"
 		date = 1936.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "A01"
+		default_country = "F66"
 		default = yes
+		"F66"={
+			history = "USA_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
 
+			}
+			focuses = {
+
+			}
+		}
 		"---" = {
 			history = "OTHER_GATHERING_STORM_DESC"
 		}

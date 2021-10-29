@@ -1,0 +1,32 @@
+﻿l_russian:
+wfc_apocalypse_idea:0 "Апокалипсис"
+wfc_apocalypse_idea_desc:0 "Мы попадём в рай а они просто сдохнут."
+wfc_immigration_idea:0 "Иммиграция"
+fascism_discrediting:0 "§RДискредитация правительства§!"
+communism_discrediting:0 "§RДискредитация правительства§!"
+democratic_discrediting:0 "§RДискредитация правительства§!"
+neutrality_discrediting:0 "§RДискредитация правительства§!"
+wfc_acw_assistance:0 "Экономическая помощь §G[ACW.GetNameDef]§!"
+wfc_acw_puppet:0 "Марионетка §G[ACW.GetNameDef]§!"
+wfc_tantacle_attack:0 "Атака тентаклей"
+Is_Flat_Justice:0 "Быстрое правосудие"
+
+wfc_industrial_concern:0 "Индустриальный концерн"
+wfc_electronics_concern:0 "Электронный концерн"
+wfc_atom_concern:0 "Атомный концерн"
+wfc_refining_concern:0 "Нефтеной концерн"
+wfc_obt_arsenal:0 "Разработчик ОБТ"
+wfc_jet_aircraft_manufacturer:0 "Разработчик реактивной авиации"
+
+wfc_subsidies_dm:0 "Бюджетные субсидии"
+
+
+###########
+ Anime_Physics:0 "Аниме физика"
+ Anime_Physics_desc:0 "Один удар!"
+ Slice_of_Life:0 "Кусочек жизни"
+ Slice_of_Life_desc:0 "Кавай!"
+
+
+
+

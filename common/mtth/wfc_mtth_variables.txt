@@ -1,0 +1,9 @@
+wfc_volunteers_base = {
+	base = 500
+	modifier = {
+		FROM = {
+			has_tech = radio
+		}
+		add = 250
+	}
+}
